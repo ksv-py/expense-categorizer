@@ -1,0 +1,13 @@
+flask
+pandas
+numpy
+scikit-learn
+sqlalchemy 
+joblib
+jinja2
+kaggle
+kagglehub
+python-dotenv
+matplotlib
+seaborn
+-e .
