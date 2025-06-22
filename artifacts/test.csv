@@ -1,505 +1,692 @@
 Date,Mode,Category,Subcategory,Note,Amount,Income/Expense,Currency
-15/01/2018 13:51:31,Cash,Transportation,Train,Place 0 to Place 3 returns,40.0,Expense,INR
-30/09/2017 20:23:13,Saving Bank account 1,Food,Grocery,vegetables,135.0,Expense,INR
-25/09/2017 17:56:56,Saving Bank account 1,Food,fruits,Apple 2 kg (110) + Banana 1kg (80),300.0,Expense,INR
-15/09/2017 09:56:50,Saving Bank account 1,Food,Tea,2 tea parcel,24.0,Expense,INR
-7/5/2016,Saving Bank account 1,Investment,Mutual fund,Mutual fund B,1000.0,Expense,INR
-30/07/2017 21:33:27,Saving Bank account 1,Transportation,Travels,2 Neeta travels : Place A to pune,895.0,Expense,INR
-10/5/2017,Saving Bank account 1,Equity Mutual Fund F,,,1000.0,Transfer-Out,INR
-4/7/2018,Cash,Beauty,grooming,Shaving,50.0,Expense,INR
-15/05/2017 19:28:42,Cash,Food,Dinner,Veg cheese grill sandwich,100.0,Expense,INR
-30/04/2018 06:32:57,Cash,Gift,,To Family,500.0,Expense,INR
-5/9/2017,Saving Bank account 1,Equity Mutual Fund A,,,1000.0,Transfer-Out,INR
-23/02/2015 09:19:54,Saving Bank account 1,Other,,splitwise settlement,4118.0,Expense,INR
-26/03/2018 09:55:55,Credit Card,subscription,Tata Sky,Permanent Residence - Tata Play recharge,157.0,Expense,INR
-6/1/2018,Cash,Food,curd,2 cups,20.0,Expense,INR
-7/2/2017,Saving Bank account 1,Equity Mutual Fund E,,,1000.0,Transfer-Out,INR
-9/12/2016,Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider recharge wfh,301.0,Expense,INR
-27/01/2018 18:15:53,Saving Bank account 1,Transportation,Bike,Two Wheeler Bikedelux third installment,43000.0,Expense,INR
-27/03/2017 21:25:08,Saving Bank account 1,Food,Milk,milk 1lit ,60.0,Expense,INR
-31/01/2017 09:22:32,Saving Bank account 1,Salary,,From workplace ,63101.0,Income,INR
-10/8/2017,Saving Bank account 1,Household,Kirana,Dahi (42) + Vanilla essance (34),76.0,Expense,INR
-26/02/2017 10:54:45,Saving Bank account 1,Household,Kirana,,846.0,Expense,INR
-9/10/2017,Cash,Food,Grocery,vegetables,280.0,Expense,INR
-16/01/2018 08:22:48,Saving Bank account 1,Food,Milk,1 lit ,69.0,Expense,INR
-25/07/2017 19:31:06,Saving Bank account 1,Tourism,Trip,Tours and Travel,20000.0,Expense,INR
-17/09/2017 21:47:23,Saving Bank account 1,Household,Kirana,,114.0,Expense,INR
-22/01/2017 19:20:35,Saving Bank account 1,Family,Pocket money,,2000.0,Expense,INR
-28/09/2015 10:53:25,Cash,Health,Health,6 pairs of use and throw gloves,120.0,Expense,INR
-11/3/2016,Cash,Education,School supplies,Gel pens,20.0,Expense,INR
-1/11/2017,Saving Bank account 1,Salary,,From workplace ,78298.0,Income,INR
-6/3/2018,Cash,Food,Milk,Half lit  milk,36.0,Expense,INR
-2/8/2017,Saving Bank account 1,Food,Milk,milk 1lit ,66.0,Expense,INR
-22/08/2018 22:31:36,Cash,Food,Milk,Half lit  milk,37.0,Expense,INR
-21/02/2017 22:00:35,Cash,Food,snacks,pav vada,10.0,Expense,INR
-10/2/2017,Saving Bank account 1,Equity Mutual Fund F,,,1000.0,Transfer-Out,INR
-3/3/2018,Saving Bank account 1,Food,Milk,Half lit  milk,36.0,Expense,INR
-4/12/2016,Cash,Food,vegetables,onion 1 kg,25.0,Expense,INR
-1/7/2017,Saving Bank account 1,Saving Bank account 2,,,100.0,Transfer-Out,INR
-27/08/2018 10:52:30,Cash,Food,Biscuits,Khari packet,45.0,Expense,INR
-6/8/2017,Saving Bank account 1,Food,breakfast,krack Jack biscuits,5.0,Expense,INR
-10/5/2017,Saving Bank account 1,Food,breakfast,Tea + 2 kachori,34.0,Expense,INR
-3/5/2017,Saving Bank account 1,Gift,,Decathlon shoes,1811.0,Expense,INR
-31/05/2017 20:47:17,Saving Bank account 1,Apparel,Clothing,undergarments pair of Jockey,655.0,Expense,INR
-28/02/2017 22:13:04,Cash,Transportation,auto,Place 0 to Current Residence,30.0,Expense,INR
-14/01/2018 15:22:04,Credit Card,Household,Hardware,Vibrating electronic message tool,798.0,Expense,INR
-15/09/2017 11:48:48,Cash,Food,fruits,Nariyal,55.0,Expense,INR
-25/03/2017 14:50:06,Cash,Food,Grocery,Dahi 2 packets,20.0,Expense,INR
-28/05/2017 19:39:31,Cash,Food,vegetables,,45.0,Expense,INR
-27/08/2018 10:52:51,Cash,Food,breakfast,2 plates poha,60.0,Expense,INR
-29/07/2017 13:30:49,Credit Card,Health,Medicine,Hospital consultation,556.0,Expense,INR
-7/11/2017,Saving Bank account 1,Equity Mutual Fund E,,,1000.0,Transfer-Out,INR
-24/09/2017 21:05:24,Cash,Transportation,Train,Place 0 to WS return,10.0,Expense,INR
-1/1/2017,Saving Bank account 1,Health,Hospital,Doctor Fees,300.0,Expense,INR
-16/03/2016 12:44:04,Saving Bank account 1,Gift,,Ganesh murthi,80.0,Expense,INR
-1/9/2017,Saving Bank account 1,Food,Milk,milk 1lit ,66.0,Expense,INR
-5/12/2017,Saving Bank account 1,subscription,Tata Sky,Current Residence - Tata Play recharge,100.0,Expense,INR
-20/01/2018 20:53:20,Saving Bank account 1,Food,Bread,,45.0,Expense,INR
-26/06/2018 17:25:23,Saving Bank account 1,Household,Appliances,Aqugurad water purifier,13050.0,Expense,INR
-18/03/2015 18:27:14,Cash,Food,snacks,samosa+tea+veg cheese grill sandwich,53.0,Expense,INR
-22/05/2017 17:29:38,Saving Bank account 1,Household,Appliances,3 pin Holder,50.0,Expense,INR
-2/4/2016,Saving Bank account 1,subscription,Mobile Service Provider,,251.0,Expense,INR
-13/05/2017 20:51:02,Saving Bank account 1,Food,Dinner,Non veg overloaded pizza,242.0,Expense,INR
-4/9/2017,Saving Bank account 1,Food,Ice cream,4 cups (2 Vanilla 2 tutifruity),40.0,Expense,INR
-19/11/2016 12:12:00,Cash,Food,chocolate,poppins,2.0,Expense,INR
-27/01/2015 18:34:20,Cash,Food,,chana chat,15.0,Expense,INR
-1/1/2015,Cash,Transportation,,bus - brc to Place H,30.0,Expense,INR
-9/5/2017,Saving Bank account 1,Food,Lunch,Chana masala 30 + 3 chapati,45.0,Expense,INR
-5/3/2016,Saving Bank account 1,Investment,RD,,1000.0,Expense,INR
-5/6/2017,Cash,Food,Dinner,Chicken Biryani 120+ dal rice 60,180.0,Expense,INR
-25/04/2017 09:20:48,Saving Bank account 1,Food,Milk,milk 1lit ,64.0,Expense,INR
-2/3/2015,Saving Bank account 1,Rent,,,2833.0,Expense,INR
-31/01/2018 22:00:22,Cash,Food,Dinner,At restaurant,320.0,Expense,INR
-18/03/2018 18:47:54,Credit Card,Family,clothes,Trouser,799.0,Expense,INR
-1/3/2018,Saving Bank account 1,Public Provident Fund,,,10000.0,Transfer-Out,INR
-30/05/2018 07:42:56,Saving Bank account 1,Dividend earned on Shares,,HDFC Stocks,88.0,Income,INR
-10/9/2017,Saving Bank account 1,Equity Mutual Fund F,,,1000.0,Transfer-Out,INR
-7/5/2018,Cash,Transportation,Bike,Mall parking,20.0,Expense,INR
-5/4/2016,Saving Bank account 1,Investment,RD,,1000.0,Expense,INR
-25/03/2017 14:49:45,Saving Bank account 1,Transportation,Travels,Place 2 to Place 1,900.0,Expense,INR
-10/2/2016,Saving Bank account 1,Investment,Mutual fund,Mutual fund C,1000.0,Expense,INR
-31/07/2017 09:51:59,Saving Bank account 1,Food,Eggs,4 eggs,22.0,Expense,INR
-27/05/2018 10:50:10,Saving Bank account 2,Interest,,interest paid,28.0,Income,INR
-10/3/2015,Cash,Transportation,Train,Place 0 to Bandra,20.0,Expense,INR
-2/3/2015,Cash,Health,Hospital,dentist check-up,300.0,Expense,INR
-29/01/2017 19:26:04,Cash,Food,snacks,2 Shegaon kachori (nasik),30.0,Expense,INR
-15/04/2018 14:40:08,Cash,Transportation,Bike,Station Parking,10.0,Expense,INR
-19/07/2018 20:25:13,Cash,Food,curd,Dahi 4 packets,40.0,Expense,INR
-18/03/2018 16:16:21,Cash,Transportation,Train,Place 0 to Place 4 return,20.0,Expense,INR
-27/06/2018 18:19:27,Credit Card,Apparel,Footwear,Rainy season chappal,550.0,Expense,INR
-17/09/2018,Cash,Family,Pocket money,Given to sibling,100.0,Expense,INR
-7/12/2015,Saving Bank account 1,Investment,Mutual fund,reliance mutual fund,1000.0,Expense,INR
-23/10/2015 14:30:42,Cash,Transportation,auto,mandir to hospital,20.0,Expense,INR
-19/01/2018 22:24:20,Saving Bank account 1,Household,Kirana,Amul butter,53.0,Expense,INR
-13/02/2018 20:22:43,Saving Bank account 1,Food,Grocery,Amul cheese,72.0,Expense,INR
-4/11/2015,Cash,Public Provident Fund,,,10000.0,Expense,INR
-19/02/2017 08:04:37,Cash,Food,beverage,sugarcane juice 2,30.0,Expense,INR
-26/08/2017 07:46:28,Saving Bank account 1,Maturity amount,,FD matured,61754.0,Income,INR
-12/7/2017,Saving Bank account 1,Gpay Reward,,reward Gpay,6.0,Income,INR
-3/8/2018,Cash,Family,Pocket money,,2000.0,Expense,INR
-6/12/2017,Saving Bank account 1,Food,Lunch,Catering Service,125.0,Expense,INR
-1/7/2018,Cash,Apparel,Laundry,clothes ironing,98.0,Expense,INR
-13/09/2018,Cash,Food,snacks,Pav Bhaji,70.0,Expense,INR
-13/01/2016 12:06:57,Saving Bank account 1,Other,,wedding gift,45000.0,Income,INR
-3/7/2018,Credit Card,subscription,Tata Sky,Current Residence - Tata Play recharge,154.0,Expense,INR
-6/8/2017,Saving Bank account 1,Food,Lunch,5 chapati,25.0,Expense,INR
-12/7/2017,Saving Bank account 1,Food,Milk,milk 1lit ,64.0,Expense,INR
-30/03/2017 20:15:18,Saving Bank account 1,Household,Kirana,,245.0,Expense,INR
-22/06/2017 23:03:08,Cash,Transportation,train,2 Place 0 to WS returns,20.0,Expense,INR
-28/07/2017 15:25:34,Credit Card,Health,Medicine,Hospital consultation,167.0,Expense,INR
-11/1/2015,Cash,Transportation,,ola auto - wakad to GG skies,170.0,Expense,INR
-10/8/2017,Saving Bank account 1,Gpay Reward,,,3.0,Income,INR
-29/01/2017 19:23:34,Cash,Transportation,auto,within city,30.0,Expense,INR
-25/02/2017 20:41:26,Cash,Household,Appliances,tube and inverter fitting,1600.0,Expense,INR
-21/04/2017 20:26:04,Saving Bank account 1,Health,Medicine,Q-dee strip,40.0,Expense,INR
-8/1/2016,Saving Bank account 1,Other,,laptop table,1994.0,Expense,INR
-5/4/2016,Saving Bank account 1,Investment,Mutual fund,Mutual fund A,1000.0,Expense,INR
-29/07/2017 09:48:55,Saving Bank account 1,Transportation,auto,ola auto - Current Residence to hospital Place 6,97.0,Expense,INR
-31/12/2016 13:48:53,Saving Bank account 1,Salary,,From workplace ,56574.0,Income,INR
-1/12/2015,Saving Bank account 1,Money transfer,,,50000.0,Expense,INR
-14/03/2018 21:39:40,Cash,Household,Kirana,Mayonnaise + cheese cubes,140.0,Expense,INR
-19/02/2017 08:04:37,Cash,Education,Stationary,laminated colour print out,25.0,Expense,INR
-8/1/2018,Saving Bank account 1,Food,flour mill,M D sure 2kg atta,104.0,Expense,INR
-8/2/2015,Saving Bank account 1,Food,,egg fried rice,86.0,Expense,INR
-17/09/2017 10:50:23,Saving Bank account 1,Food,Bread,,35.0,Expense,INR
-27/02/2017 18:31:38,Saving Bank account 1,Food,Lunch,6 chapati(8 rs) + half rice,88.0,Expense,INR
-25/03/2017 14:50:06,Saving Bank account 1,Gpay Reward,,reward Gpay,6.0,Income,INR
-22/02/2018 19:19:32,Saving Bank account 1,Food,Lunch,Catering Service,192.0,Expense,INR
-10/09/2018,Credit Card,Apparel,Online Shopping,Kurta from Myntra,899.0,Expense,INR
-2/3/2015,Saving Bank account 1,Money transfer,,,10000.0,Expense,INR
-10/9/2015,Saving Bank account 1,Recurring Deposit,,,1000.0,Expense,INR
-4/4/2015,Cash,Food,Grocery,,287.0,Expense,INR
-23/03/2017 22:03:29,Saving Bank account 1,Food,beverage,3 sugarcane juice,60.0,Expense,INR
-25/03/2018 21:12:38,Credit Card,Food,snacks,French crossiant,80.0,Expense,INR
-19/11/2017 20:22:43,Cash,Transportation,Train,2 Place 0 to Place 6 return,20.0,Expense,INR
-1/9/2015,Saving Bank account 1,Public Provident Fund,,,10000.0,Expense,INR
-15/06/2018 21:19:39,Saving Bank account 1,subscription,Mobile Service Provider,Data booster pack,15.0,Expense,INR
-6/1/2018,Cash,Household,Kirana,Idli pith 1kg,38.0,Expense,INR
-31/01/2017 09:22:32,Saving Bank account 1,Food,Milk,half liter buffalo,35.0,Expense,INR
-12/3/2017,Cash,Food,Lunch,pav bhaji pav(90) + 4 pav extra(40),130.0,Expense,INR
-1/12/2015,Saving Bank account 1,Public Provident Fund,,,10000.0,Expense,INR
-3/1/2017,Saving Bank account 1,subscription,Edtech Course,,2816.92,Expense,INR
-17/06/2017 10:25:13,Saving Bank account 1,Food,Milk,milk 1lit ,64.0,Expense,INR
-3/12/2016,Cash,Food,Grocery,Colgate max fresh medium,55.0,Expense,INR
-30/09/2017 17:03:55,Cash,Household,Kitchen,Cooktop installation+ base,600.0,Expense,INR
-7/12/2016,Saving Bank account 1,Investment,Mutual fund,,1000.0,Expense,INR
-23/06/2018 10:15:35,Cash,Transportation,auto,,30.0,Expense,INR
-1/5/2015,Cash,Food,Grocery,dahi,20.0,Expense,INR
-30/11/2016 06:53:26,Saving Bank account 1,subscription,Mobile Service Provider,mobile recharge sim 2,98.0,Expense,INR
-20/12/2017 10:31:16,Cash,Food,Lunch,Catering Service,95.0,Expense,INR
-3/7/2018,Cash,maid,,,500.0,Expense,INR
-15/04/2018 14:39:37,Cash,Transportation,Train,Place 0 to Place 4 return,20.0,Expense,INR
-14/09/2016 10:13:24,Saving Bank account 1,Family,gift,baggit purse,437.0,Expense,INR
-6/6/2017,Cash,Food,snacks,2 Veg puff,40.0,Expense,INR
-9/6/2018,Credit Card,subscription,Mobile Service Provider,Data booster pack,667.0,Expense,INR
-12/11/2017,Cash,Household,Appliances,Screwdriver 2,120.0,Expense,INR
-16/02/2018 08:44:18,Saving Bank account 1,Food,snacks,banana chips,45.0,Expense,INR
-13/05/2018,Saving Bank account 1,Small cap fund 1,,,5000.0,Transfer-Out,INR
-27/01/2015 18:34:10,Cash,Food,,tea,30.0,Expense,INR
-5/7/2018,Cash,Transportation,Train,Place 0 to Place P,20.0,Expense,INR
-29/07/2018 15:52:47,Cash,Transportation,auto,Decathlon Place A to Place A station,50.0,Expense,INR
-30/05/2017 19:57:58,Cash,Transportation,auto,2 Place 0 to Current Residence,30.0,Expense,INR
-6/2/2017,Cash,Food,fruits,half kg chiku,30.0,Expense,INR
-19/11/2016 11:58:28,Cash,Transportation,auto,within city,80.0,Expense,INR
-15/05/2017 19:28:22,Saving Bank account 1,Food,breakfast,Poha 25+ tea 10,35.0,Expense,INR
-30/06/2018 08:45:18,Saving Bank account 1,Interest,,interest paid,342.0,Income,INR
-10/2/2016,Saving Bank account 1,Investment,RD,,1000.0,Expense,INR
-27/02/2017 09:17:17,Saving Bank account 1,Food,Milk,milk 1lit  + amul butter milk,76.0,Expense,INR
-27/11/2017 13:38:20,Credit Card,Apparel,Footwear,Sandals Hush puppies,2699.0,Expense,INR
-19/06/2017 10:19:14,Saving Bank account 1,Food,Milk,milk 1lit ,64.0,Expense,INR
-8/12/2016,Saving Bank account 1,Other,,OTT Platform 1 subscription,199.0,Expense,INR
-10/8/2016,Saving Bank account 1,Investment,RD,,1000.0,Expense,INR
-14/04/2015 12:24:47,Saving Bank account 1,Other,,covid19 donation to PM fund,500.0,Expense,INR
-28/05/2017 19:27:36,Saving Bank account 1,Food,vegetables,,60.0,Expense,INR
-1/8/2017,Saving Bank account 1,Money transfer,Home,,10000.0,Expense,INR
-30/01/2017 07:24:02,Cash,Food,snacks,single pav vada,15.0,Expense,INR
-8/2/2015,Saving Bank account 1,Other,,Internet renewal,3400.0,Expense,INR
-26/02/2015 20:05:39,Cash,Food,Grocery,eggs,30.0,Expense,INR
-2/7/2018,Saving Bank account 1,Household,Kirana,Supermart,1595.0,Expense,INR
-29/01/2017 20:20:15,Cash,Food,Dinner,3 parathe ( 80 mix veg + 70 methi + 100 paneer aloo),250.0,Expense,INR
-27/06/2018 18:18:28,Cash,Transportation,auto,Place P station to Alfa market,25.0,Expense,INR
-20/12/2015 09:08:55,Saving Bank account 1,Gift,,secret Santa - diary,465.0,Expense,INR
-28/06/2017 09:18:53,Cash,maid,,House Cleaning + washing utensils,2000.0,Expense,INR
-13/02/2018 06:58:06,Saving Bank account 1,Food,Milk,1 lit ,72.0,Expense,INR
-28/10/2016 07:19:00,Cash,Transportation,auto,Permanent Residence to pathology,40.0,Expense,INR
-4/6/2017,Saving Bank account 1,Food,vegetables,Pav kg Simla mirch 20 + Hari mirch 5,25.0,Expense,INR
-19/11/2017 20:22:19,Cash,Transportation,auto,2 Current Residence to Place 0,30.0,Expense,INR
-11/5/2015,Cash,Food,Grocery,onions,20.0,Expense,INR
-31/03/2017 21:00:41,Cash,Transportation,auto,Place 0 to Current Residence,15.0,Expense,INR
-10/3/2017,Saving Bank account 1,Recurring Deposit,,,1000.0,Transfer-Out,INR
-11/7/2017,Saving Bank account 1,Other,,Gift from inlaws,20000.0,Income,INR
-7/5/2017,Saving Bank account 1,Food,breakfast,Double omlet pav + tea,45.0,Expense,INR
-5/10/2015,Saving Bank account 1,Recurring Deposit,,,1000.0,Expense,INR
-3/2/2017,Cash,Food,breakfast,parle top biscuits,10.0,Expense,INR
-29/06/2018 17:01:00,Saving Bank account 1,Dividend earned on Shares,,HUL Stocks,44.0,Income,INR
-31/08/2017 16:31:29,Saving Bank account 2,Other,,Sms charges + GST,17.7,Expense,INR
-3/11/2017,Saving Bank account 1,subscription,Edtech Course,,2700.0,Expense,INR
-14/02/2016 21:35:26,Cash,Food,Grocery,bread (10)+Cadbury(10)+ cheese + myvaneese+pav bhaji masala,165.0,Expense,INR
-7/8/2016,Saving Bank account 1,Family,exam fee,PET Psychology,750.0,Expense,INR
-22/03/2018 19:31:37,Saving Bank account 1,Food,snacks,Pickle,150.0,Expense,INR
-5/8/2016,Saving Bank account 1,Investment,RD,,1000.0,Expense,INR
-21/09/2017 12:45:28,Cash,Food,snacks,Vadapav,15.0,Expense,INR
-24/08/2017 16:09:05,Credit Card,Apparel,Clothing,Jaipuri handprinted Maharani Saree (1850 Two pcs + 1500 1 pc),5200.0,Expense,INR
-31/03/2016 10:25:01,Saving Bank account 1,Salary,,From workplace ,70806.0,Income,INR
-10/1/2018,Saving Bank account 1,Food,Rajgira ladu,2 packets,40.0,Expense,INR
-8/6/2017,Cash,Transportation,auto,2 Place 0 to Current Residence,30.0,Expense,INR
-2/8/2018,Cash,Food,flour mill,M D sure 4kg atta,216.0,Expense,INR
-31/10/2015 19:05:50,Cash,Food,Tea,,10.0,Expense,INR
-5/5/2016,Saving Bank account 1,Investment,Mutual fund,Mutual fund A,1000.0,Expense,INR
-21/03/2016 04:26:41,Saving Bank account 1,subscription,Mobile Service Provider,,251.0,Expense,INR
-18/11/2017 22:20:50,Credit Card,Household,Kirana,Khobra + shengdana+ vim bar,242.0,Expense,INR
-24/11/2017 12:22:39,Credit Card,Culture,Movie,2 PVR Place 6,314.0,Expense,INR
-12/6/2016,Saving Bank account 1,subscription,Mobile Service Provider,,251.0,Expense,INR
-10/11/2017,Saving Bank account 1,Equity Mutual Fund F,,,1000.0,Transfer-Out,INR
-4/3/2018,Cash,Family,Pocket money,,450.0,Expense,INR
-7/4/2015,Saving Bank account 1,Recurring Deposit,,,1000.0,Expense,INR
-1/2/2017,Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider recharge wfh,301.0,Expense,INR
-10/10/2016,Saving Bank account 1,Investment,Mutual fund,,1000.0,Expense,INR
-10/4/2017,Saving Bank account 1,Recurring Deposit,,,1000.0,Transfer-Out,INR
-5/5/2017,Saving Bank account 1,Recurring Deposit,,,1000.0,Transfer-Out,INR
-1/1/2017,Saving Bank account 1,Money transfer,,,100000.0,Expense,INR
-15/02/2015 21:37:45,Cash,Household,,mixer repair,250.0,Expense,INR
-22/06/2017 23:26:41,Saving Bank account 1,Food,Milk,milk 1lit ,64.0,Expense,INR
-21/01/2018 19:44:43,Credit Card,Food,Dinner,Home Food Delivery,384.0,Expense,INR
-23/08/2017 14:08:23,Cash,Food,Lunch,180 Chicken Sandwich + 120 vada pav & Samosa,300.0,Expense,INR
-11/09/2018,Saving Bank account 1,Income,Freelance,Logo design payment,2500.0,Income,INR
-5/1/2016,Saving Bank account 1,Investment,RD,,1000.0,Expense,INR
-4/4/2015,Credit Card,Food,Grocery,,889.0,Expense,INR
-8/3/2018,Saving Bank account 1,Equity Mutual Fund E,,,1000.0,Transfer-Out,INR
-12/2/2017,Saving Bank account 1,Other,,laptop repair (format 350 + quick heal pro 500),850.0,Expense,INR
-3/12/2017,Saving Bank account 1,Food,Lunch,Home Food Delivery - Chicken lollypop 8 pcs 190 + chicken manchow soup 100,290.0,Expense,INR
-4/2/2017,Cash,Food,Milk,half liter buffalo,30.0,Expense,INR
-24/12/2017 21:24:36,Saving Bank account 1,Transportation,auto,2 Current Residence to Place 0,30.0,Expense,INR
-27/06/2018 18:43:23,Credit Card,Apparel,Accessories,Purse,450.0,Expense,INR
-10/3/2015,Saving Bank account 1,Investment,Mutual fund, mutual fund,1000.0,Expense,INR
-6/11/2017,Cash,Food,Eggs,6 eggs,39.0,Expense,INR
-6/1/2018,Saving Bank account 1,Household,Appliances,5 litres can Distilled water,100.0,Expense,INR
-8/9/2017,Cash,Food,flour mill,M D sure 4kg atta,196.0,Expense,INR
-17/12/2017 16:28:43,Cash,Transportation,Train,Place 0 to Place 4 return,20.0,Expense,INR
-10/11/2015,Saving Bank account 1,Recurring Deposit,,,1000.0,Expense,INR
-1/6/2017,Saving Bank account 1,Public Provident Fund,,,10000.0,Transfer-Out,INR
-30/08/2017 21:59:50,Saving Bank account 1,Health,Medicine,5 Meftal spas,22.0,Expense,INR
-22/03/2018 12:50:18,Cash,Food,Rajgira ladu,1 packet,20.0,Expense,INR
-7/9/2016,Saving Bank account 1,Investment,Mutual fund,,1000.0,Expense,INR
-15/03/2018 16:27:45,Cash,Food,Lunch,Catering Service,60.0,Expense,INR
-31/12/2016 20:11:24,Saving Bank account 1,Food,Dinner,1 chicken shawarma + 1 chicken lollipop - 1 veg cheese burger,375.0,Expense,INR
-19/11/2017 20:23:22,Saving Bank account 1,Food,snacks,1 Panipuri,20.0,Expense,INR
-25/04/2017 09:21:02,Cash,Transportation,auto,2 Current Residence to Place 0,30.0,Expense,INR
-4/3/2018,Cash,Food,Lunch,Catering Service,130.0,Expense,INR
-22/12/2016 11:15:36,Saving Bank account 1,Gift,,farewell contribution,285.0,Expense,INR
-28/04/2017 11:17:49,Saving Bank account 1,subscription,Netflix,1 month subscription,149.0,Expense,INR
-17/05/2016 12:34:38,Cash,Other,,Aadhar mobile number and email id updated,100.0,Expense,INR
-1/2/2015,Cash,Apparel,,undergarments,248.0,Expense,INR
-5/4/2017,Saving Bank account 1,Equity Mutual Fund A,,,1000.0,Transfer-Out,INR
-10/3/2018,Cash,Food,Milk,Half lit  milk,36.0,Expense,INR
-6/2/2017,Cash,Food,Grocery,vegetables,195.0,Expense,INR
-17/07/2017 16:21:41,Credit Card,Food,Lunch,1 dal makhani rice(200)+ 1 chicken tikka rice(220)+chocolate pastry (120),540.0,Expense,INR
-11/5/2017,Saving Bank account 1,Food,Lunch,Full egg fried rice 100 + chicken lollypop 4 pcs 130,233.0,Expense,INR
-22/05/2018 20:47:36,Cash,Health,Health,2 All out refill,154.0,Expense,INR
-4/7/2017,Saving Bank account 1,Food,Grocery,Dalich peeth pav kg,25.0,Expense,INR
-13/03/2018 09:27:56,Saving Bank account 1,Food,Milk,Half lit  milk,36.0,Expense,INR
-2/1/2017,Cash,Transportation,auto,Current Residence to Place 0,60.0,Expense,INR
-18/06/2018 22:18:59,Saving Bank account 1,subscription,Mobile Service Provider,Data booster pack,15.0,Expense,INR
-30/07/2018 11:49:11,Cash,Food,breakfast,1 plates poha,25.0,Expense,INR
-18/03/2017 09:41:44,Cash,Food,fruits,Grapes + apple + guava,310.0,Expense,INR
-24/12/2017 19:28:11,Cash,Food,snacks,Gupta bhel,25.0,Expense,INR
-28/05/2018 14:11:17,Credit Card,subscription,Mobile Service Provider,Data booster pack,25.0,Expense,INR
-5/7/2017,Saving Bank account 1,Food,Grocery,2 Kg Onion 30/kg + 1 kg Potato 30/kg + Parle Biscuit Rs 10,100.0,Expense,INR
-9/1/2015,Cash,Food,,sprout chat,20.0,Expense,INR
-8/12/2015,Cash,Other,,flour mill,28.0,Expense,INR
-17/09/2018,Credit Card,Other,,YouTube Premium,129.0,Expense,INR
-1/11/2017,Saving Bank account 1,Recurring Deposit,,,1000.0,Transfer-Out,INR
-8/5/2018,Cash,Beauty,grooming,Shaving,50.0,Expense,INR
-3/1/2018,Credit Card,Food,Dinner,Wok express + Domino's,681.0,Expense,INR
-09/09/2018,Cash,Other,,Temple donation,51.0,Expense,INR
-1/1/2018,Credit Card,Household,gadgets,Logitech mouse,599.0,Expense,INR
-2/12/2017,Saving Bank account 1,Food,Milk,milk 1lit ,69.0,Expense,INR
-10/4/2018,Cash,Food,breakfast,Bread,18.0,Expense,INR
-20/04/2016 10:27:48,Saving Bank account 1,subscription,Mobile Service Provider,,251.0,Expense,INR
-12/11/2017,Cash,Food,Tea,,12.0,Expense,INR
-18/01/2018 07:55:29,Saving Bank account 1,Food,Eggs,6 eggs,42.0,Expense,INR
-28/02/2017 22:13:41,Cash,Food,Grocery,sabudana + rajgira ladu,85.0,Expense,INR
-5/9/2017,Saving Bank account 1,subscription,Edtech Course,,2700.0,Expense,INR
-27/11/2017 13:38:55,Cash,Transportation,Train,1 Place 0 to Place 6,5.0,Expense,INR
-8/3/2018,Saving Bank account 1,subscription,Mahanagar Gas,,540.0,Expense,INR
-3/2/2017,Cash,Health,Medicine,meftal spas,8.0,Expense,INR
-1/11/2016,Saving Bank account 1,Money transfer,,,10000.0,Expense,INR
-28/04/2018 21:03:59,Credit Card,Food,Dinner,Home Food Delivery,413.0,Expense,INR
-3/2/2015,Cash,Other,,shoe repair,100.0,Expense,INR
-1/8/2018,Equity Mutual Fund B,Saving Bank account 1,,,2000.0,Transfer-Out,INR
-28/09/2016 07:32:36,Cash,Other,,flour mill,32.0,Expense,INR
-21/05/2018 14:06:05,Cash,Family,Pocket money,,140.0,Expense,INR
-29/12/2016 18:06:14,Cash,Food,flour mill,1 sher bajri 1 kg dadar 1 kg makka,14.0,Expense,INR
-20/03/2018 16:15:59,Cash,Food,breakfast,Bread,18.0,Expense,INR
-3/4/2016,Saving Bank account 1,subscription,OTT Platform,subscription 1 yr,300.0,Expense,INR
-2/7/2018,Cash,Transportation,auto,Place 1 bridge to Current Residence 2 seats,50.0,Expense,INR
-28/12/2016 18:40:50,Saving Bank account 1,Other,,specs,1780.0,Expense,INR
-13/12/2017 17:42:27,Cash,Family,Pocket money,,20.0,Expense,INR
-1/7/2017,Saving Bank account 1,Money transfer,Home,,10000.0,Expense,INR
-30/04/2018 09:56:14,Credit Card,subscription,Tata Sky,Current Residence - Tata Play recharge,176.0,Expense,INR
-11/7/2017,Saving Bank account 1,Education,Stationary,Black Ball pen,10.0,Expense,INR
-22/01/2018 12:08:08,Cash,Food,flour mill,M D sure 3kg atta,162.0,Expense,INR
-9/5/2018,Cash,Food,Biscuits,Toast packet,45.0,Expense,INR
-15/07/2018 09:41:01,Cash,Food,snacks,4 kachori,48.0,Expense,INR
-25/03/2018 21:14:42,Cash,Transportation,Bike,Station Parking,10.0,Expense,INR
-11/3/2017,Cash,Transportation,auto,2 Place 0 to Current Residence,30.0,Expense,INR
-08/09/2018,Cash,Transportation,Auto,Home to office,60.0,Expense,INR
-31/12/2016 17:39:16,Saving Bank account 1,Gift,,Birthday gift,1096.0,Expense,INR
-18/03/2018 17:16:27,Cash,Food,snacks,1 Panipuri,30.0,Expense,INR
-1/1/2018,Credit Card,subscription,Amazon Prime,Amazon pay cashback 1017 + Rs.482,482.0,Expense,INR
-1/7/2015,Saving Bank account 1,Public Provident Fund,,,10000.0,Expense,INR
-6/8/2017,Cash,Health,Medicine,Vicks VapoRub,22.0,Expense,INR
-1/8/2017,Saving Bank account 1,Apparel,Clothing,Myntra - tshirt+ denim shorts,399.0,Expense,INR
-23/08/2016 17:25:23,Saving Bank account 1,Family,Pocket money,,2000.0,Expense,INR
-7/6/2018,Saving Bank account 1,Equity Mutual Fund E,,,1000.0,Transfer-Out,INR
-1/2/2018,Equity Mutual Fund B,Saving Bank account 1,,,2000.0,Transfer-Out,INR
-13/09/2017 21:24:47,Saving Bank account 1,Food,Dinner,Sugaran Kitchen,110.0,Expense,INR
-09/09/2018,Cash,Food,snacks,Samosa and coke,40.0,Expense,INR
-23/08/2017 14:07:44,Cash,Transportation,Taxi,Ola cab - Current Residence to Domestic airport T1,850.0,Expense,INR
-26/02/2016 20:26:07,Saving Bank account 1,Money transfer,,,10000.0,Expense,INR
-8/11/2016,Saving Bank account 1,subscription,Netflix,1 month subscription,199.0,Expense,INR
-1/9/2018,Equity Mutual Fund B,Saving Bank account 1,,,2000.0,Transfer-Out,INR
-11/1/2017,Saving Bank account 1,Health,Medicine,adulsa ( tonic for cough ),90.0,Expense,INR
-15/03/2015 18:39:12,Cash,Apparel,Clothing,altering,30.0,Expense,INR
-10/4/2018,Cash,Food,Lunch,Catering Service,70.0,Expense,INR
-13/02/2015 09:08:59,Cash,Food,,milk half shakti,27.0,Expense,INR
-5/2/2017,Saving Bank account 1,Recurring Deposit,,,1000.0,Transfer-Out,INR
-30/06/2017 08:43:56,Saving Bank account 1,Gift,,Forrest essential perfume,4800.0,Expense,INR
-1/11/2016,Saving Bank account 1,Investment,Public Provident Fund,,10000.0,Expense,INR
-31/05/2016 09:55:09,Saving Bank account 1,Salary,,From workplace ,51556.0,Income,INR
-27/05/2017 13:21:21,Saving Bank account 1,Education,Stationary,Print outs+ Xerox,20.0,Expense,INR
-1/3/2018,Cash,Food,Eggs,6 eggs,36.0,Expense,INR
-28/01/2018 19:16:31,Credit Card,Household,Kirana,Supermart,764.0,Expense,INR
-19/12/2016 17:07:37,Cash,Food,fruits,1 kg mosambi 1 kg apple,170.0,Expense,INR
-1/11/2015,Saving Bank account 1,Money transfer,,,10000.0,Expense,INR
-23/04/2018 18:21:36,Saving Bank account 1,Household,Kirana,Idli pith 1kg,38.0,Expense,INR
-17/12/2016 13:42:36,Saving Bank account 1,Bonus,,reward Gpay,11.0,Income,INR
-1/2/2017,Saving Bank account 1,Money transfer,,,10000.0,Expense,INR
-30/09/2016 06:28:02,Saving Bank account 1,Interest,,interest paid,835.0,Income,INR
-22/10/2015 13:10:06,Saving Bank account 1,Other,,Mobile Service Provider recharge wfh,251.0,Expense,INR
-26/11/2017 20:30:12,Credit Card,Health,Medicine,eye drop,159.0,Expense,INR
-19/11/2016 12:12:00,Cash,Transportation,auto,within city,50.0,Expense,INR
-28/04/2017 11:17:49,Saving Bank account 1,Food,Ice cream,Cup of butterscotch (20) + chocobar (10),30.0,Expense,INR
-27/06/2018 18:46:33,Credit Card,Other,,Shopping at Alfa,4720.0,Expense,INR
-5/1/2015,Cash,Other,,cook,2250.0,Expense,INR
-13/02/2015 09:08:59,Saving Bank account 1,Food,,chana chat + tea,21.0,Expense,INR
-12/10/2016,Saving Bank account 1,Food,Grocery,coconut,150.0,Expense,INR
-10/5/2017,Saving Bank account 1,Education,Stationary,Courier,100.0,Expense,INR
-12/2/2018,Saving Bank account 1,Food,curd,3 packets,30.0,Expense,INR
-15/02/2018 19:47:54,Saving Bank account 1,Food,Grocery,Half kg tomato + methi 1 judi,30.0,Expense,INR
-19/06/2017 10:19:53,Cash,Food,flour mill,M D sure 3kg atta,141.0,Expense,INR
-23/05/2017 22:09:27,Cash,Household,Kirana,Rasna orange,46.0,Expense,INR
-24/04/2016 22:10:32,Saving Bank account 1,subscription,Kindle unlimited,kindle unlimited,169.0,Expense,INR
-29/12/2017 21:36:07,Saving Bank account 1,Family,misc,For utensils,450.0,Expense,INR
-16/01/2017 11:01:54,Saving Bank account 1,Household,Furniture,chair pair,2400.0,Expense,INR
-28/02/2017 22:09:39,Cash,Transportation,Bus,BEST 138 - Marine drive to Place 3m,12.0,Expense,INR
-29/06/2018 15:28:46,Cash,Household,Appliances,3 bulbs 3 pencil cells,270.0,Expense,INR
-24/06/2018 13:31:06,Cash,Transportation,Train,2 Place 5 to Place 0,30.0,Expense,INR
-1/12/2017,Saving Bank account 1,Recurring Deposit,,,1000.0,Transfer-Out,INR
-26/03/2018 13:05:30,Saving Bank account 1,Food,Milk,milk 1lit ,72.0,Expense,INR
-12/12/2017,Cash,Food,Eggs,6 eggs,40.0,Expense,INR
-15/02/2018 19:48:20,Saving Bank account 1,Food,Ice cream,chocobar,35.0,Expense,INR
-3/1/2017,Cash,Food,chocolate,Pastry 2,50.0,Expense,INR
-11/9/2017,Cash,Transportation,train,Local pass to Family,100.0,Expense,INR
-1/5/2018,Saving Bank account 1,Money transfer,Home,,10000.0,Expense,INR
-29/11/2015 09:27:52,Cash,Transportation,auto,,40.0,Expense,INR
-29/07/2015 14:36:01,Saving Bank account 1,Other,,audible subscription,199.0,Expense,INR
-18/01/2015 07:31:42,Cash,Food,,milk half gold,29.0,Expense,INR
-14/08/2018 09:51:30,Cash,Food,snacks,Dahi,32.0,Expense,INR
-31/08/2015 11:48:23,Saving Bank account 1,Money transfer,,,10000.0,Expense,INR
-28/07/2017 11:31:24,Credit Card,Health,Hospital,Hospital consultation,3050.0,Expense,INR
-29/05/2017 09:25:48,Saving Bank account 1,Food,Grocery,Half kg potato + half kg banana,35.0,Expense,INR
-5/2/2017,Cash,Food,Tea,,10.0,Expense,INR
-1/1/2015,Cash,Transportation,,share jeep - Place T to brc,60.0,Expense,INR
-17/11/2017 22:26:31,Saving Bank account 1,Food,Ice cream,Vanila family pack,105.0,Expense,INR
-24/06/2018 11:00:13,Cash,Food,snacks,2 Vadapav 2 samosa pav,60.0,Expense,INR
-8/3/2018,Cash,Food,Milk,Half lit  milk,36.0,Expense,INR
-19/01/2017 00:12:27,Saving Bank account 1,Family,medicine,syrup,145.0,Expense,INR
-2/4/2018,Cash,Food,Onions,onion 2 kg,36.0,Expense,INR
-10/12/2017,Saving Bank account 1,Food,Lunch,Catering Service,65.0,Expense,INR
-1/5/2017,Cash,Transportation,auto,2 Current Residence to Place 0,30.0,Expense,INR
-21/01/2015 09:05:41,Cash,Food,,shev,50.0,Expense,INR
-18/08/2017 15:33:07,Cash,Family,Pocket money,,100.0,Expense,INR
-14/11/2016 20:03:10,Saving Bank account 1,Transportation,Travels,Veer Travels - BRC to Place 2 ( 2 Adults),1800.0,Expense,INR
-05/09/2018,Saving Bank account 1,Equity Mutual Fund C,,SIP payment,2000.0,Transfer-Out,INR
-10/4/2017,Saving Bank account 1,Food,beverage,sugarcane juice,20.0,Expense,INR
-1/4/2017,Saving Bank account 1,Public Provident Fund,,,10000.0,Transfer-Out,INR
-13/05/2018 20:16:54,Cash,Education,Stationary,Gel pen Refills,12.0,Expense,INR
-28/05/2017 19:27:51,Cash,Food,Grocery,,30.0,Expense,INR
-3/3/2015,Cash,water (jar /tanker),,water jar,108.0,Expense,INR
-7/5/2017,Saving Bank account 1,subscription,Mobile Service Provider,No daily limit plan ( 25 GB 30 days),296.0,Expense,INR
-5/8/2016,Saving Bank account 1,Investment,Mutual fund,,1000.0,Expense,INR
-5/7/2017,Saving Bank account 1,Food,Dinner,veg fried rice 1 full,180.0,Expense,INR
-29/04/2018 18:28:10,Saving Bank account 1,Food,beverage,2 sugarcane juice,40.0,Expense,INR
-11/8/2017,Cash,Gift,,Rakshabandhan ovalini,500.0,Expense,INR
-15/02/2015 08:40:26,Cash,Food,,tea,20.0,Expense,INR
-4/1/2018,Saving Bank account 1,Small cap fund 1,,,5000.0,Transfer-Out,INR
-26/02/2018 18:25:59,Credit Card,Transportation,Bike,First servicing,443.0,Expense,INR
-9/3/2015,Cash,Other,,print out,6.0,Expense,INR
-26/01/2015 07:42:43,Cash,Food,,paav,30.0,Expense,INR
-12/3/2015,Credit Card,Health,Hospital,root canal due,1900.0,Expense,INR
-15/01/2018 13:50:29,Saving Bank account 1,Transportation,auto,Uber auto: Place 4 Station to Current Residence society,266.0,Expense,INR
-7/3/2017,Cash,Food,fruits,1 kg apple + grapes 0.5 kg,190.0,Expense,INR
-24/10/2015 18:57:36,Cash,Household,Appliances,plumber,100.0,Expense,INR
-17/11/2017 13:37:44,Saving Bank account 1,Food,flour mill,4 kg Gehu,28.0,Expense,INR
-22/03/2017 23:14:21,Cash,Household,Furniture,Mattress advance,500.0,Expense,INR
-8/2/2018,Saving Bank account 1,Food,Milk,1 lit ,69.0,Expense,INR
-13/05/2017 10:43:17,Saving Bank account 1,Food,breakfast,Medu vada 1 plate,35.0,Expense,INR
-10/7/2018,Saving Bank account 1,Dividend earned on Shares,,Tata Steel Stocks,180.0,Income,INR
-28/06/2017 10:19:28,Saving Bank account 1,Food,Grocery,5rs mirchi + crack-jack,15.0,Expense,INR
-28/09/2015 10:54:06,Cash,Other,,Mobile Service Provider sim card,350.0,Expense,INR
-7/8/2017,Saving Bank account 1,Family,Pocket money,,5000.0,Expense,INR
-8/8/2017,Saving Bank account 1,Tourism,Trip,Tours and Travel,43000.0,Expense,INR
-30/07/2017 21:33:27,Cash,Food,Grocery,Dahi 2 packets,20.0,Expense,INR
-5/8/2017,Saving Bank account 1,Equity Mutual Fund A,,,1000.0,Transfer-Out,INR
-12/11/2017,Cash,Transportation,auto,2 Place 0 to Current Residence,30.0,Expense,INR
-11/3/2016,Cash,Other,,watch repair,250.0,Expense,INR
-18/01/2018 07:55:00,Saving Bank account 1,Food,Milk,1 lit ,69.0,Expense,INR
-6/7/2018,Cash,Food,Dinner,At restaurant,760.0,Expense,INR
-30/03/2018 20:10:12,Cash,Food,snacks,1 Panipuri,25.0,Expense,INR
-3/2/2015,Cash,Food,,chana chat + kachori,27.0,Expense,INR
-16/03/2017 20:40:52,Cash,Other,,scrap,70.0,Income,INR
-1/5/2017,Cash,Transportation,Train,2 Place 0 to WS single,10.0,Expense,INR
-5/3/2016,Saving Bank account 1,Investment,Mutual fund,Mutual fund A,1000.0,Expense,INR
-22/10/2017,Saving Bank account 1,Equity Mutual Fund C,,,1000.0,Transfer-Out,INR
-3/1/2017,Cash,Food,Grocery,fruits and vegetables,140.0,Expense,INR
-12/1/2018,Cash,Health,Lab Tests,Family Thyroid Test,500.0,Expense,INR
-18/03/2018 20:40:33,Cash,Transportation,Bike,Station Parking,10.0,Expense,INR
-24/08/2018 22:12:17,Saving Bank account 1,Other,,From Family,1000.0,Income,INR
-14/08/2018 10:59:46,Saving Bank account 1,Dividend earned on Shares,,ITC Stocks,124.0,Income,INR
-1/2/2016,Saving Bank account 1,Investment,Public Provident Fund,,10000.0,Expense,INR
-31/03/2017 21:07:22,Cash,Transportation,Taxi,siddhivinayak to shiv sena bhavan,30.0,Expense,INR
-13/02/2018,Saving Bank account 1,Small cap fund 1,,,5000.0,Transfer-Out,INR
-24/08/2018 22:13:43,Credit Card,Food,Dinner,Home Food Delivery,1120.0,Expense,INR
-3/12/2017,Cash,Other,,2 kg soil,20.0,Expense,INR
-31/05/2017 10:25:17,Saving Bank account 1,Salary,,From workplace ,56970.0,Income,INR
-13/11/2017 20:18:43,Saving Bank account 1,Household,Kirana,Pani Puri packet + Bundi + chivda,180.0,Expense,INR
-9/1/2017,Cash,Beauty,grooming,hair cut+shaving,80.0,Expense,INR
-21/07/2018 19:02:36,Cash,Household,Kirana,Supermart,368.0,Expense,INR
-1/2/2017,Saving Bank account 1,Public Provident Fund,,,10000.0,Transfer-Out,INR
-10/11/2016,Saving Bank account 1,Investment,RD,RD,1000.0,Expense,INR
-15/03/2016 17:08:31,Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider recharge wfh,251.0,Expense,INR
-22/12/2017,Saving Bank account 1,Equity Mutual Fund C,,,1000.0,Transfer-Out,INR
-28/02/2017 22:11:09,Cash,Transportation,Train,2 Place 3m to vadala rd,10.0,Expense,INR
-5/9/2018,Saving Bank account 1,Food,Milk,Half lit  milk,36.0,Expense,INR
-21/01/2015 09:32:34,Cash,Food,,milk half gold,28.0,Expense,INR
-1/2/2018,Saving Bank account 1,Public Provident Fund,,,10000.0,Transfer-Out,INR
-10/1/2017,Cash,Food,fruits,1 kg apple + bananas,160.0,Expense,INR
-20/02/2018 21:42:59,Saving Bank account 1,Household,Appliances,Kitchen fan + installation+ repair,2600.0,Expense,INR
-11/2/2017,Cash,Other,, courier,75.0,Expense,INR
-1/1/2016,Saving Bank account 1,Investment,Public Provident Fund,,10000.0,Expense,INR
-18/03/2017 09:41:44,Saving Bank account 1,Food,Grocery,,160.0,Expense,INR
-22/02/2018,Saving Bank account 1,Life Insurance,,,11043.0,Transfer-Out,INR
-11/1/2015,Cash,Beauty,,shaving,50.0,Expense,INR
-31/08/2015 07:47:33,Saving Bank account 1,Other,,Screw driver kit,287.0,Expense,INR
-13/04/2018,Saving Bank account 1,Small Cap fund 2,,,5000.0,Transfer-Out,INR
-30/01/2015 23:10:04,Cash,Food,,dinner treat,1004.0,Expense,INR
-3/8/2017,Saving Bank account 1,subscription,Newspaper,,170.0,Expense,INR
-8/7/2017,Saving Bank account 1,Food,Milk,milk 1lit ,64.0,Expense,INR
-19/09/2016 15:35:24,Cash,Food,Milk,,33.0,Expense,INR
-23/11/2017 12:22:39,Cash,Food,flour mill,3 kg Bajari,21.0,Expense,INR
-5/3/2018,Saving Bank account 1,Other,,blanket sewing,10.0,Expense,INR
-11/7/2017,Saving Bank account 1,Food,Ice cream,chocobar,15.0,Expense,INR
-13/03/2017 21:30:25,Cash,Beauty,grooming,hair cut,100.0,Expense,INR
-27/06/2016 17:09:47,Saving Bank account 1,Transportation,Travels,Chalisgaon to Baroda return,3200.0,Expense,INR
-31/05/2015 12:02:40,Saving Bank account 1,Money transfer,,,10000.0,Expense,INR
-1/4/2016,Saving Bank account 1,Money transfer,,,10000.0,Expense,INR
-17/12/2016 13:42:21,Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider recharge wfh,301.0,Expense,INR
-12/11/2017,Cash,Transportation,auto,Place P station to Alfa market,34.0,Expense,INR
-23/05/2017 22:10:00,Saving Bank account 1,Food,snacks,Gupta bhel,25.0,Expense,INR
-15/06/2018 09:24:33,Saving Bank account 1,Transportation,train,2CC Place 2 to DDR Spl Train,1213.6,Expense,INR
-12/11/2017,Credit Card,Other,,Shopping at Alfa,3690.0,Expense,INR
-19/11/2016 11:58:28,Cash,Food,beverage,lemon juice ( 20/person),40.0,Expense,INR
-14/08/2018 09:50:12,Cash,Household,Kirana,Toothpaste Patanjali,160.0,Expense,INR
-19/12/2017 20:59:27,Saving Bank account 1,Gpay Reward,,,6.0,Income,INR
-3/5/2015,Saving Bank account 1,Food,Grocery,,1178.0,Expense,INR
-5/2/2015,Cash,Food,,water jar,375.0,Expense,INR
-13/08/2018 18:37:27,Cash,Household,Appliances,5 litres can Distilled water,100.0,Expense,INR
-7/7/2017,Saving Bank account 1,Equity Mutual Fund E,,,1000.0,Transfer-Out,INR
-15/04/2018 19:07:30,Cash,Food,Tea,2 cutting chai,20.0,Expense,INR
-3/3/2015,Cash,Health,Medicine,painkillers,82.0,Expense,INR
-1/6/2017,Saving Bank account 1,Saving Bank account 2,,,100.0,Transfer-Out,INR
-4/2/2017,Cash,Food,snacks,samosa + sabudana vada,53.0,Expense,INR
-30/01/2018 21:05:31,Saving Bank account 1,Household,Kitchen,Matchbox packet 10pcs,10.0,Expense,INR
-27/10/2017 12:55:49,Cash,Transportation,auto,Permanent Residence to bus stand,40.0,Expense,INR
-9/3/2017,Cash,Food,beverage,2 orange juices,100.0,Expense,INR
-13/08/2018 18:33:36,Cash,Household,Kirana,Supermart,594.0,Expense,INR
-20/03/2018 16:15:16,Cash,Food,Milk,Half lit  milk,36.0,Expense,INR
-31/12/2017 07:21:05,Saving Bank account 1,Interest,,interest paid,594.0,Income,INR
-4/8/2017,Saving Bank account 1,subscription,Mobile Service Provider,Family Mobile Service Provider recharge,2999.0,Expense,INR
-8/7/2018,Cash,Transportation,Taxi,Ola cab - Current Residence CHS to eye institute,130.0,Expense,INR
-3/6/2017,Saving Bank account 1,subscription,Edtech Course,,2700.1,Expense,INR
-28/11/2017 08:30:27,Saving Bank account 1,Food,Milk,1 lit ,69.0,Expense,INR
-26/12/2015 23:53:57,Cash,Other,,flour mill,28.0,Expense,INR
-18/07/2018 20:26:03,Cash,Food,flour mill,M D sure 4kg atta,216.0,Expense,INR
-7/7/2016,Saving Bank account 1,Investment,Mutual fund,Mutual fund B,1000.0,Expense,INR
-26/06/2017 11:38:23,Saving Bank account 1,Food,Grocery,Dahi 2 packets,20.0,Expense,INR
-29/12/2016 09:00:28,Saving Bank account 1,subscription,Tata Sky,,214.0,Expense,INR
-9/8/2016,Saving Bank account 1,subscription,Mobile Service Provider,,251.0,Expense,INR
-3/11/2017,Equity Mutual Fund B,Saving Bank account 1,,,2000.0,Transfer-Out,INR
-31/08/2017 10:23:19,Cash,Household,Toiletries,Odonil,60.0,Expense,INR
+7/4/2017,Saving Bank account 1,Equity Mutual Fund E,,,1000.0,Transfer-Out,INR
 24/08/2018 20:17:09,Cash,Food,Milk,Half lit  milk,36.0,Expense,INR
-30/06/2016 08:20:12,Saving Bank account 1,Salary,,From workplace ,51544.0,Income,INR
+1/2/2018,Saving Bank account 1,Money transfer,Home,,10000.0,Expense,INR
+6/2/2017,Saving Bank account 1,Food,Grocery,jira + toast pav kilo,110.0,Expense,INR
+14/07/2017 20:01:33,Saving Bank account 1,Food,Ice cream,chocobar,15.0,Expense,INR
+5/8/2017,Saving Bank account 1,Equity Mutual Fund A,,,1000.0,Transfer-Out,INR
+24/06/2018 13:31:06,Cash,Transportation,Train,2 Place 5 to Place 0,30.0,Expense,INR
+7/5/2018,Cash,Transportation,Bike,Mall parking,20.0,Expense,INR
+19/01/2018 22:24:20,Saving Bank account 1,Household,Kirana,Amul butter,53.0,Expense,INR
+26/04/2015 09:06:04,Saving Bank account 1,Food,Dinner,srikhand,114.0,Expense,INR
+31/12/2017 13:25:39,Cash,Food,Bread,Flatbread 24 pcs,30.0,Expense,INR
+20/01/2017 19:23:37,Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider recharge wfh,301.0,Expense,INR
+7/10/2015,Saving Bank account 1,Gift,,kindle + gift wrap,8029.0,Expense,INR
+24/08/2022 16:48:35,Credit Card,Food,snacks,Burger,141.87,Expense,INR
+11/7/2017,Cash,Family,Pocket money,,1500.0,Expense,INR
+5/11/2016,Saving Bank account 1,Investment,Mutual fund,,1000.0,Expense,INR
+30/11/2016 20:00:34,Saving Bank account 1,Family,clothes,leggings,500.0,Expense,INR
+4/2/2015,Cash,Food,,tea,30.0,Expense,INR
+16/09/2018 13:15:17,Saving Bank account 1,Food,Milk,Half litre milk,109.48,Expense,INR
+25/11/2017 09:29:45,Saving Bank account 1,Food,Milk,1 lit ,69.0,Expense,INR
+18/03/2017 09:41:44,Cash,Food,fruits,Grapes + apple + guava,310.0,Expense,INR
+29/01/2015 07:30:48,Cash,Food,,good day biscuits,38.0,Expense,INR
+02/04/2022 09:29:48,Saving Bank account 1,subscription,Amazon Prime,,334.04,Expense,INR
+16/05/2020 00:32:18,Credit Card,Food,Grocery,Monthly stock,769.5,Expense,INR
+09/08/2020 20:21:09,Saving Bank account 1,Food,Milk,Half litre milk,453.75,Expense,INR
+31/08/2018 10:01:15,Credit Card,Food,Dinner,Domino's Pizza,510.85,Expense,INR
+1/8/2017,Saving Bank account 1,Money transfer,Home,,10000.0,Expense,INR
+26/08/2017 07:46:28,Saving Bank account 1,Maturity amount,,FD matured,61754.0,Income,INR
+8/12/2016,Saving Bank account 1,Other,,OTT Platform 1 subscription,199.0,Expense,INR
+8/3/2018,Cash,Food,Milk,Half lit  milk,36.0,Expense,INR
+16/05/2016 20:48:29,Saving Bank account 1,subscription,Mobile Service Provider,,251.0,Expense,INR
+26/08/2017 22:17:11,Cash,Food,breakfast,Parle G chota pack,5.0,Expense,INR
+19/12/2017 06:38:08,Saving Bank account 1,Food,Milk,milk 1lit ,69.0,Expense,INR
+20/01/2018 20:53:20,Saving Bank account 1,Food,Bread,,45.0,Expense,INR
+16/09/2020 12:19:43,Saving Bank account 1,Other,Gift,Birthday Gift,448.65,Expense,INR
+7/3/2017,Saving Bank account 1,Food,Ice cream,vanilla ice cream cups 2,20.0,Expense,INR
+2/7/2018,Cash,Transportation,auto,Current Residence to Place 1 bus stop highway,40.0,Expense,INR
+3/2/2017,Saving Bank account 1,Food,snacks,chicken roll,50.0,Expense,INR
+31/10/2020 00:34:38,Cash,Apparel,Laundry,Blanket cleaned,746.67,Expense,INR
+10/11/2016,Saving Bank account 1,Investment,LIC,Life Insurance,11286.0,Expense,INR
+29/09/2017 21:53:47,Cash,Apparel,Laundry,clothes ironing : Rs 6 per item,60.0,Expense,INR
+27/06/2016 10:10:57,Saving Bank account 1,subscription,Mobile Service Provider,,251.0,Expense,INR
+30/03/2018 20:10:12,Cash,Food,snacks,1 Panipuri,25.0,Expense,INR
+4/12/2017,Credit Card,Household,Kirana,Supermart,990.0,Expense,INR
+10/05/2019 23:53:29,Saving Bank account 1,Investment,Equity Mutual Fund E,,7716.2,Transfer-Out,INR
+3/11/2015,Cash,Transportation,auto,Permanent Residence to nearby  hospital,40.0,Expense,INR
+08/05/2020 13:20:44,Credit Card,Income,Freelance,Upwork payout,33001.26,Income,INR
+7/1/2016,Saving Bank account 1,Investment,Mutual fund,Mutual fund B,1000.0,Expense,INR
+11/2/2018,Cash,Transportation,auto,Current Residence to Place 0,15.0,Expense,INR
+30/06/2018 08:45:18,Saving Bank account 1,Interest,,interest paid,342.0,Income,INR
+4/7/2016,Saving Bank account 1,subscription,Mobile Service Provider,,251.0,Expense,INR
+10/5/2017,Saving Bank account 1,Education,Stationary,Xerox,12.0,Expense,INR
+5/7/2017,Saving Bank account 1,Food,Grocery,2 Kg Onion 30/kg + 1 kg Potato 30/kg + Parle Biscuit Rs 10,100.0,Expense,INR
+19/09/2018 09:47:37,Credit Card,Investment,Equity Mutual Fund E,,604.56,Transfer-Out,INR
+30/12/2018 08:33:39,Saving Bank account 1,Festivals,Diwali,,692.0,Expense,INR
+23/02/2017 02:14:24,Cash,Food,Ice cream,2 vanilla + 2 butterscotch,80.0,Expense,INR
+19/07/2018 20:25:13,Cash,Food,curd,Dahi 4 packets,40.0,Expense,INR
+12/09/2018 22:11:13,Credit Card,Festivals,Diwali,,479.79,Expense,INR
+30/12/2020 01:37:37,Saving Bank account 1,subscription,Amazon Prime,,642.94,Expense,INR
+15/02/2022 14:00:46,Cash,Transportation,Train,To Office,805.81,Expense,INR
+10/12/2016,Saving Bank account 1,Recurring Deposit,,,1000.0,Expense,INR
+27/07/2017 06:05:30,Cash,Household,Appliances,Distilled water refill Inverter (Rs.100 given by Family),200.0,Expense,INR
+28/06/2018 10:08:21,Credit Card,Apparel,Footwear,Mast & Harbour Slides,64.82,Expense,INR
+29/10/2017 21:54:53,Credit Card,subscription,Hotstar,subscription 1yr,795.49,Expense,INR
+30/06/2018 18:47:45,Saving Bank account 1,Household,Appliances,Aqugurad PRV,1200.0,Expense,INR
+14/08/2018 09:50:12,Cash,Household,Kirana,Toothpaste Patanjali,160.0,Expense,INR
+4/1/2017,Cash,Food,Grocery,biscuits+icecream,40.0,Expense,INR
+8/1/2017,Saving Bank account 1,subscription,Netflix,1 month subscription,149.0,Expense,INR
+05/06/2020 23:30:37,Credit Card,Apparel,Laundry,5 clothes washed,780.92,Expense,INR
+14/04/2018 06:31:35,Saving Bank account 1,Food,Biscuits,Khari packet,45.0,Expense,INR
+21/12/2016 19:59:20,Saving Bank account 1,Transportation,train,LTT to Place 2 cancellation,251.8,Expense,INR
+3/7/2017,Saving Bank account 1,subscription,Newspaper,,170.0,Expense,INR
+25/10/2015 17:55:32,Cash,Household,Kitchen,Sapat Parivar Tea half kg,240.0,Expense,INR
+30/07/2019 10:59:58,Credit Card,Festivals,Holi,,745.64,Expense,INR
+16/01/2021 22:02:36,Credit Card,subscription,Spotify,,552.92,Expense,INR
+1/12/2015,Saving Bank account 1,Public Provident Fund,,,10000.0,Expense,INR
+11/06/2019 16:08:40,Saving Bank account 1,Transportation,Train,Place A to B,456.61,Expense,INR
+4/3/2018,Cash,Family,Pocket money,,450.0,Expense,INR
+02/06/2021 22:40:12,Credit Card,Income,Salary,Monthly salary,25620.29,Income,INR
+1/5/2018,Cash,Food,Milk,milk 1lit ,72.0,Expense,INR
+28/02/2017 12:32:35,Cash,Transportation,Train,2 Santacruz return,80.0,Expense,INR
+3/2/2017,Cash,Food,beverage,shreejal 1,12.0,Expense,INR
+28/02/2017 22:13:41,Saving Bank account 1,Salary,,From workplace ,56021.0,Income,INR
+24/08/2018 13:34:14,Cash,Festivals,Navratri,Ganpati+ navratri vargani,1000.0,Expense,INR
+1/11/2017,Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider freedom pack,296.0,Expense,INR
+8/6/2017,Cash,Transportation,auto,2 Current Residence to Place 0,30.0,Expense,INR
+31/10/2015 19:29:41,Cash,Food,snacks,water bottle + khari sing,70.0,Expense,INR
+21/09/2017 15:06:36,Cash,Transportation,auto,Place 0 to Current Residence,15.0,Expense,INR
+5/3/2016,Saving Bank account 1,Investment,Mutual fund,Mutual fund A,1000.0,Expense,INR
+29/08/2020 14:21:09,Credit Card,Other,Donation,Street Charity,251.61,Expense,INR
+10/2/2015,Cash,Food,,tea,6.0,Expense,INR
+2/5/2017,Saving Bank account 1,Health,Medicine,Q-dee strip,40.0,Expense,INR
+13/07/2018 09:36:19,Credit Card,Health,Medicine,Cataract Medicine,1358.0,Expense,INR
+23/02/2015 21:15:40,Cash,Transportation,auto,Bandra to Bandra terminus,20.0,Expense,INR
+13/08/2018 18:33:36,Cash,Household,Kirana,Supermart,594.0,Expense,INR
+3/3/2015,Cash,water (jar /tanker),,water jar,108.0,Expense,INR
+4/2/2015,Credit Card,Food,,grocery,1178.0,Expense,INR
+8/9/2018,Cash,Family,Pocket money,,40.0,Expense,INR
+19/09/2019 23:13:10,Saving Bank account 1,Food,snacks,Chips & Cola,94.41,Expense,INR
+24/02/2017 13:09:50,Cash,Food,Tea,3 tea yevle amrutullya,30.0,Expense,INR
+8/3/2018,Saving Bank account 1,subscription,Mahanagar Gas,,540.0,Expense,INR
+12/1/2015,Cash,Transportation,,ola auto - to Chinchwad transport bus stop,61.0,Expense,INR
+25/12/2015 17:24:50,Saving Bank account 1,Apparel,Footwear,sliper,270.0,Expense,INR
+29/02/2020 22:58:52,Cash,Apparel,Laundry,Blanket cleaned,745.76,Expense,INR
+15/05/2017 20:42:20,Saving Bank account 1,subscription,Newspaper,March 210 + April 170,380.0,Expense,INR
+10/02/2019 07:15:31,Cash,Festivals,Ganesh Pujan,,456.11,Expense,INR
+20/07/2017 12:03:16,Saving Bank account 1,Food,Milk,Half lit  milk,32.0,Expense,INR
+13/03/2018 09:27:56,Saving Bank account 1,Food,Milk,Half lit  milk,36.0,Expense,INR
+24/09/2017 15:58:33,Credit Card,Culture,Movie,2,560.0,Expense,INR
+28/02/2016 10:08:09,Cash,Grooming,Saloon,hair cut,100.0,Expense,INR
+12/08/2020 03:11:19,Credit Card,Other,Misc,,476.06,Expense,INR
+26/04/2015 10:48:00,Saving Bank account 1,Food,Grocery,eggs + bread,110.0,Expense,INR
+4/7/2017,Saving Bank account 1,Transportation,auto,Place 1 bridge to Current Residence 2 seats,60.0,Expense,INR
+13/05/2018 20:16:54,Cash,Education,Stationary,Gel pen Refills,12.0,Expense,INR
+30/01/2018 21:05:19,Saving Bank account 1,Food,Grocery,Dahi 2 packets,20.0,Expense,INR
+10/12/2017,Saving Bank account 1,Food,Lunch,Catering Service,65.0,Expense,INR
+12/09/2018 07:05:38,Credit Card,subscription,Spotify,,896.45,Expense,INR
+24/07/2017 21:52:22,Credit Card,Food,snacks,Garlic bread + periperi masala fries,248.0,Expense,INR
+5/9/2018,Saving Bank account 1,Food,breakfast,Bread,18.0,Expense,INR
+31/03/2016 10:25:01,Saving Bank account 1,Salary,,From workplace ,70806.0,Income,INR
+18/03/2015 13:22:02,Cash,Food,Lunch,dal fry and chapati,25.0,Expense,INR
+19/11/2016 11:58:28,Cash,Transportation,Bus,bus - brc to Place H ( 27/person),54.0,Expense,INR
+8/1/2018,Credit Card,Household,Hardware,Sony WI-C100 earphones wireless,1399.0,Expense,INR
+25/08/2020 14:01:20,Saving Bank account 1,Food,Grocery,Fruits & Veggies,561.52,Expense,INR
+1/1/2017,Saving Bank account 1,Money transfer,,,100000.0,Expense,INR
+28/11/2016 06:17:10,Cash,Food,Ice cream,mava 1 large,20.0,Expense,INR
+08/11/2019 18:27:35,Credit Card,Income,Freelance,Upwork payout,42066.66,Income,INR
+22/12/2016 11:15:36,Saving Bank account 1,Gift,,farewell contribution,285.0,Expense,INR
+31/08/2017 06:56:51,Saving Bank account 1,Gpay Reward,,,5.0,Income,INR
+12/11/2017,Cash,Transportation,Train,Place 4 station to Place P return,30.0,Expense,INR
+15/07/2018 19:12:57,Cash,Food,fruits,,30.0,Expense,INR
+5/9/2017,Saving Bank account 1,Equity Mutual Fund A,,,1000.0,Transfer-Out,INR
+31/08/2018 15:12:20,Cash,Family,Pocket money,,1000.0,Expense,INR
+4/7/2018,Cash,Beauty,grooming,Shaving,50.0,Expense,INR
+5/1/2015,Saving Bank account 1,Food,,dinner,135.0,Expense,INR
+28/10/2015 21:38:44,Saving Bank account 1,Gift,,to Family,1000.0,Expense,INR
+20/02/2022 12:05:15,Credit Card,Other,Donation,Street Charity,67.53,Expense,INR
+26/09/2021 17:17:22,Cash,Food,Grocery,Monthly stock,175.78,Expense,INR
+28/08/2017 12:06:47,Cash,Tourism,Trip,Misc expense,200.0,Expense,INR
+18/01/2018 07:55:29,Saving Bank account 1,Food,Eggs,6 eggs,42.0,Expense,INR
+21/08/2017 11:59:10,Saving Bank account 1,Food,Grocery,1.5 kg onions,33.0,Expense,INR
+20/12/2017 10:31:16,Cash,Food,Lunch,Catering Service,95.0,Expense,INR
+3/4/2017,Saving Bank account 1,subscription,Edtech Course,,2700.1,Expense,INR
+24/04/2015 09:25:33,Saving Bank account 1,Food,Grocery,snacks + veggie,420.0,Expense,INR
+30/09/2015 14:25:08,Saving Bank account 1,Salary,,From workplace ,49806.0,Income,INR
+1/7/2018,Debit Card,Culture,Movie,2 PVR ,461.0,Expense,INR
+17/04/2022 01:00:44,Saving Bank account 1,Other,Donation,To Temple,81.38,Expense,INR
+09/12/2020 23:28:24,Cash,Other,Gift,Festival Gift,133.59,Expense,INR
+28/05/2019 02:46:22,Cash,Income,Freelance,Client payment,37398.77,Income,INR
+24/06/2019 15:15:34,Credit Card,Transportation,Bus,Commute to Market,908.22,Expense,INR
+7/7/2015,Saving Bank account 1,Investment,Mutual fund,reliance mutual fund,1000.0,Expense,INR
+13/08/2022 20:18:51,Credit Card,Festivals,Holi,,293.36,Expense,INR
+6/6/2017,Cash,Food,snacks,2 Veg puff,40.0,Expense,INR
+29/10/2022 04:34:06,Credit Card,Income,Salary,Monthly salary,22266.33,Income,INR
+4/2/2018,Credit Card,Food,Dinner,Domino's Pizza,452.0,Expense,INR
+03/04/2022 04:11:49,Cash,subscription,Amazon Prime,,342.16,Expense,INR
+15/03/2017 06:17:32,Cash,Food,Ice cream,2 softy,40.0,Expense,INR
+21/12/2015 23:18:19,Saving Bank account 1,Other,,kindle unlimited,169.0,Expense,INR
+1/12/2017,Saving Bank account 1,Gpay Reward,,,6.0,Income,INR
+16/04/2016 21:24:04,Cash,Household,Toiletries,sensodyne toothbrush,50.0,Expense,INR
+3/2/2017,Saving Bank account 1,Food,Dinner,parath + chicken biryani,412.25,Expense,INR
+19/03/2015 16:08:23,Cash,Household,Kitchen,cooker ring,50.0,Expense,INR
+21/01/2018 19:44:43,Credit Card,Food,Dinner,Home Food Delivery,384.0,Expense,INR
+7/5/2018,Saving Bank account 1,subscription,Mahanagar Gas,,515.0,Expense,INR
+7/11/2015,Saving Bank account 1,Investment,Mutual fund,reliance mutual fund,1000.0,Expense,INR
+18/05/2017 11:06:19,Saving Bank account 1,Food,Milk,milk 1lit ,64.0,Expense,INR
+2/4/2018,Cash,Food,Onions,onion 2 kg,36.0,Expense,INR
+1/12/2017,Equity Mutual Fund B,Saving Bank account 1,,,2000.0,Transfer-Out,INR
+09/08/2021 09:14:21,Saving Bank account 1,Festivals,Diwali,,196.4,Expense,INR
+7/9/2016,Cash,Food,Eggs,1 dozen,72.0,Expense,INR
+16/06/2018 09:01:39,Saving Bank account 1,Share Market,,,8500.0,Transfer-Out,INR
+01/10/2021 20:32:42,Cash,Investment,Small Cap fund 2,,6868.29,Transfer-Out,INR
+29/04/2018 18:28:10,Saving Bank account 1,Food,beverage,2 sugarcane juice,40.0,Expense,INR
+21/10/2021 05:01:27,Credit Card,Transportation,Bus,To Tuition,151.29,Expense,INR
+11/1/2015,Cash,Transportation,,ola auto - wakad to GG skies,170.0,Expense,INR
+16/03/2017 20:40:52,Cash,Other,,scrap,70.0,Income,INR
+27/09/2017 15:53:49,Saving Bank account 1,Gift,,farewell contribution,334.0,Expense,INR
+26/04/2015 10:48:25,Cash,Other,,stationary (drawing book + black sketch pen),59.0,Expense,INR
+3/1/2017,Cash,Food,Lunch,farm house pizza,330.0,Expense,INR
+06/09/2022 18:45:16,Saving Bank account 1,Transportation,Bus,Commute to Market,481.06,Expense,INR
+25/10/2022 02:29:25,Cash,subscription,Netflix,Monthly plan,844.48,Expense,INR
+14/01/2022 15:50:03,Saving Bank account 1,Investment,Small Cap fund 2,,1725.25,Transfer-Out,INR
+14/12/2020 08:54:32,Saving Bank account 1,Other,Donation,To Temple,396.64,Expense,INR
+26/11/2017 22:26:15,Saving Bank account 1,Gpay Reward,,,8.0,Income,INR
+3/12/2017,Cash,Other,,2 kg soil,20.0,Expense,INR
+05/06/2021 05:43:55,Saving Bank account 1,Apparel,Laundry,Blanket cleaned,82.7,Expense,INR
+04/12/2019 19:10:44,Saving Bank account 1,Investment,Small Cap fund 2,,9582.06,Transfer-Out,INR
+15/03/2019 18:11:27,Cash,Festivals,Diwali,,901.99,Expense,INR
+13/08/2018,Saving Bank account 1,Small cap fund 1,,,5000.0,Transfer-Out,INR
+7/6/2017,Saving Bank account 1,Equity Mutual Fund E,,,1000.0,Transfer-Out,INR
+8/2/2018,Saving Bank account 1,Food,Milk,1 lit ,69.0,Expense,INR
+3/8/2018,Cash,Family,Pocket money,,2000.0,Expense,INR
+28/10/2020 16:56:39,Credit Card,Investment,Equity Mutual Fund E,,2907.89,Transfer-Out,INR
+10/2/2016,Saving Bank account 1,Investment,RD,,1000.0,Expense,INR
+1/1/2017,Saving Bank account 1,Health,Medicine,antibiotics,354.0,Expense,INR
+8/5/2018,Saving Bank account 1,Food,Milk,milk 1lit ,72.0,Expense,INR
+9/8/2017,Saving Bank account 1,Household,Toiletries,Dettol liquid handwash refill,218.0,Expense,INR
+26/01/2022 06:37:16,Cash,Income,Freelance,Upwork payout,3567.43,Income,INR
+15/01/2015 18:23:11,Cash,Transportation,,auto - Amit nagar to b45,100.0,Expense,INR
+01/02/2021 15:01:00,Saving Bank account 1,Apparel,Laundry,5 clothes washed,802.28,Expense,INR
+18/02/2022 02:58:25,Saving Bank account 1,Transportation,Train,To Office,673.53,Expense,INR
+5/4/2016,Saving Bank account 1,Investment,Mutual fund,Mutual fund A,1000.0,Expense,INR
+1/5/2018,Equity Mutual Fund B,Saving Bank account 1,,,2000.0,Transfer-Out,INR
+25/03/2015 14:02:02,Cash,water (jar /tanker),,,20.0,Expense,INR
+5/3/2018,Saving Bank account 1,Other,,blanket sewing,10.0,Expense,INR
+27/08/2022 16:57:26,Cash,Apparel,Laundry,5 clothes washed,539.38,Expense,INR
+23/07/2022 02:18:00,Credit Card,Income,Salary,Monthly salary,14079.81,Income,INR
+13/12/2016 18:20:35,Saving Bank account 1,Gift,,farewell contribution,350.0,Expense,INR
+6/3/2017,Cash,Food,Milk,milk 1lit ,62.0,Expense,INR
+18/11/2017 22:20:50,Credit Card,Household,Kirana,Khobra + shengdana+ vim bar,242.0,Expense,INR
+11/03/2021 18:29:24,Credit Card,subscription,Spotify,,68.29,Expense,INR
+11/5/2017,Saving Bank account 1,Beauty,grooming,Body hair removal cream,318.0,Expense,INR
+4/4/2017,Saving Bank account 1,Food,Ice cream,chocobar (25)+ chocolate cup (20),45.0,Expense,INR
+3/2/2018,Saving Bank account 1,Food,Ice cream,chocobar,10.0,Expense,INR
+19/02/2019 20:21:47,Credit Card,Investment,Equity Mutual Fund E,,7886.79,Transfer-Out,INR
+23/08/2017 14:08:23,Cash,Food,Lunch,180 Chicken Sandwich + 120 vada pav & Samosa,300.0,Expense,INR
+22/04/2020 16:09:08,Credit Card,Festivals,Holi,,419.82,Expense,INR
+21/04/2022 03:14:41,Credit Card,Festivals,Ganesh Pujan,,412.36,Expense,INR
+6/9/2016,Saving Bank account 1,Transportation,Travels,Place 6 to Place 2,598.5,Expense,INR
+5/7/2018,Cash,Food,Tea,cutting chai,7.0,Expense,INR
+2/11/2017,Cash,Food,snacks,2 pavwada,20.0,Expense,INR
+17/03/2018 13:13:18,Saving Bank account 1,Food,Milk,Half lit  milk,37.0,Expense,INR
+21/10/2017 21:32:40,Credit Card,Other,,ipad cover + case,1888.0,Expense,INR
+18/03/2018 17:16:27,Cash,Food,snacks,1 Panipuri,30.0,Expense,INR
+16/08/2022 18:43:45,Credit Card,Transportation,Bus,Commute to Market,709.29,Expense,INR
+31/08/2017 16:31:29,Saving Bank account 2,Other,,Sms charges + GST,17.7,Expense,INR
+15/03/2018 16:27:45,Cash,Food,Lunch,Catering Service,60.0,Expense,INR
+6/8/2017,Saving Bank account 1,subscription,Newspaper,,170.0,Expense,INR
+06/09/2022 20:41:29,Saving Bank account 1,Income,Freelance,Client payment,37322.68,Income,INR
+2/5/2017,Saving Bank account 1,Food,Milk,milk 1lit ,64.0,Expense,INR
+27/06/2017 09:32:15,Cash,Health,Medicine,Cough-sills 4 pcs,12.0,Expense,INR
+24/05/2018 09:04:01,Saving Bank account 1,subscription,Mobile Service Provider,Data booster pack,667.0,Expense,INR
+04/01/2022 01:07:16,Saving Bank account 1,Apparel,Laundry,Blanket cleaned,93.99,Expense,INR
+20/06/2021 01:04:45,Credit Card,Apparel,Laundry,Blanket cleaned,747.57,Expense,INR
+23/09/2018 05:35:35,Cash,Income,Freelance,Client payment,46598.96,Income,INR
+22/01/2015 16:44:45,Cash,Food,,tea,20.0,Expense,INR
+08/06/2019 01:25:33,Saving Bank account 1,subscription,Netflix,Monthly plan,762.98,Expense,INR
+1/5/2018,Saving Bank account 1,Money transfer,Home,,10000.0,Expense,INR
+4/8/2017,Saving Bank account 1,Food,Milk,milk 1lit ,68.0,Expense,INR
+19/01/2017 00:13:03,Cash,Food,snacks,2 Bombay vada pav,20.0,Expense,INR
+15/11/2016 20:23:29,Cash,Food,Grocery,lemons,20.0,Expense,INR
+26/03/2017 19:25:27,Saving Bank account 1,Household,Kirana,Smart,786.0,Expense,INR
+10/5/2018,Saving Bank account 1,Other,,NEFT from Big Share Services,947.0,Income,INR
+04/08/2022 08:54:40,Cash,Investment,Small Cap fund 2,,3596.53,Transfer-Out,INR
+3/7/2018,Saving Bank account 1,Food,Milk,Half lit  milk,36.0,Expense,INR
+9/5/2018,Cash,Food,Biscuits,Toast packet,45.0,Expense,INR
+25/03/2017 14:49:45,Saving Bank account 1,Transportation,Travels,Place 2 to Place 1,900.0,Expense,INR
+30/04/2018 06:32:57,Cash,Gift,,To Family,500.0,Expense,INR
+08/09/2019 08:14:48,Cash,Transportation,Auto,Office to Home,286.67,Expense,INR
+1/5/2017,Saving Bank account 1,Food,flour mill,M D sure 1kg atta,47.0,Expense,INR
+29/03/2015 20:06:39,Cash,Food,Grocery,,150.0,Expense,INR
+28/02/2017 22:06:58,Cash,Food,breakfast,sugarcane juice 2,30.0,Expense,INR
+29/06/2018 17:01:00,Saving Bank account 1,Dividend earned on Shares,,HUL Stocks,44.0,Income,INR
+13/10/2020 09:49:03,Saving Bank account 1,subscription,Mobile Service Provider,,506.4,Expense,INR
+30/09/2017 20:22:53,Cash,Food,Grocery,vegetables,30.0,Expense,INR
+31/07/2018 18:01:20,Saving Bank account 1,Money transfer,Home,,30000.0,Expense,INR
+31/10/2015 19:06:06,Cash,Transportation,auto,b45 to Pandya bridge,71.0,Expense,INR
+15/06/2018 21:19:39,Saving Bank account 1,subscription,Mobile Service Provider,Data booster pack,15.0,Expense,INR
+28/01/2022 12:09:06,Cash,Apparel,Laundry,5 clothes washed,402.72,Expense,INR
+28/04/2018 10:04:35,Cash,Family,Pocket money,,500.0,Expense,INR
+10/1/2017,Saving Bank account 1,Equity Mutual Fund F,,,1000.0,Transfer-Out,INR
+23/02/2015 09:19:54,Saving Bank account 1,Other,,splitwise settlement,4118.0,Expense,INR
+5/6/2015,Saving Bank account 1,Recurring Deposit,,,1000.0,Expense,INR
+10/3/2018,Cash,Food,Milk,Half lit  milk,36.0,Expense,INR
+27/08/2018 10:52:30,Cash,Food,Biscuits,Khari packet,45.0,Expense,INR
+19/08/2017 11:48:49,Saving Bank account 1,subscription,Tata Sky,Current Residence - Tata Play recharge,217.0,Expense,INR
+04/04/2022 02:55:58,Credit Card,Apparel,Laundry,5 clothes washed,550.62,Expense,INR
+17/07/2017 22:16:39,Cash,Transportation,auto,2 Place 0 to Current Residence,30.0,Expense,INR
+27/02/2016 07:49:16,Saving Bank account 1,Food,snacks, pedhe,50.0,Expense,INR
+13/02/2016 11:14:46,Saving Bank account 1,Health,Health,hand gloves 4 pairs,80.0,Expense,INR
+20/03/2018 16:15:16,Cash,Food,Milk,Half lit  milk,36.0,Expense,INR
+2/12/2017,Saving Bank account 1,Food,Milk,milk 1lit ,69.0,Expense,INR
+22/06/2022 05:37:10,Saving Bank account 1,Investment,Equity Mutual Fund E,,8801.91,Transfer-Out,INR
+21/08/2018 16:15:46,Cash,Food,Tea,cutting chai,12.0,Expense,INR
+11/9/2017,Cash,Transportation,auto,Current Residence to Place 1 bus stop highway,60.0,Expense,INR
+11/3/2015,Saving Bank account 1,Recurring Deposit,,,1000.0,Expense,INR
+15/02/2021 22:44:42,Saving Bank account 1,Transportation,Train,To Office,696.19,Expense,INR
+29/09/2017 21:52:32,Saving Bank account 1,Health,Medicine,3 tablet Nor tz,21.0,Expense,INR
+5/2/2016,Saving Bank account 1,Investment,RD,,1000.0,Expense,INR
+23/05/2017 22:10:00,Saving Bank account 1,Food,snacks,Gupta bhel,25.0,Expense,INR
+09/07/2022 02:27:03,Credit Card,Income,Bonus,Year-end bonus,8765.28,Income,INR
+06/09/2021 03:51:10,Cash,Transportation,Bus,Commute to Market,296.75,Expense,INR
+1/5/2017,Saving Bank account 1,Public Provident Fund,,,10000.0,Transfer-Out,INR
+4/11/2015,Cash,Public Provident Fund,,,10000.0,Expense,INR
+6/1/2017,Cash,Household,Appliances,moscuito racket,200.0,Expense,INR
+25/03/2018 21:14:08,Cash,Food,snacks,Popcorn family pack,25.0,Expense,INR
+25/12/2017 11:53:26,Saving Bank account 1,subscription,Mobile Service Provider,Data booster pack,181.0,Expense,INR
+1/7/2018,Cash,Apparel,Laundry,clothes ironing,98.0,Expense,INR
+30/05/2017 17:02:53,Cash,Household,Kitchen,Crockery,275.0,Expense,INR
+29/12/2017 21:36:07,Saving Bank account 1,Family,misc,For utensils,450.0,Expense,INR
+12/04/2019 07:05:05,Credit Card,Apparel,Laundry,5 clothes washed,224.98,Expense,INR
+14/04/2017 20:04:31,Saving Bank account 1,Family,Pocket money,,5000.0,Expense,INR
+5/2/2017,Cash,Transportation,Bus,N to M,330.0,Expense,INR
+15/06/2018 09:24:33,Saving Bank account 1,Transportation,train,2CC Place 2 to DDR Spl Train,1213.6,Expense,INR
+22/02/2016 09:05:19,Saving Bank account 1,subscription,Kindle unlimited,kindle unlimited,169.0,Expense,INR
+25/02/2017 20:41:26,Cash,Household,Appliances,tube and inverter fitting,1600.0,Expense,INR
+5/5/2017,Saving Bank account 1,Food,Dinner,Bhendi masala 30 + 3 chapati,45.0,Expense,INR
+27/10/2018 23:06:31,Saving Bank account 1,Festivals,Holi,,987.83,Expense,INR
+10/4/2017,Saving Bank account 1,Equity Mutual Fund F,,,1000.0,Transfer-Out,INR
+08/09/2022 23:09:38,Saving Bank account 1,Investment,Equity Mutual Fund E,,2500.84,Transfer-Out,INR
+30/07/2017 07:48:51,Saving Bank account 1,Salary,,From workplace ,61578.0,Income,INR
+22/07/2021 11:29:27,Saving Bank account 1,Investment,Small Cap fund 2,,1119.18,Transfer-Out,INR
+05/11/2019 13:42:22,Saving Bank account 1,Transportation,Auto,Office to Home,655.98,Expense,INR
+9/7/2018,Cash,Food,Grocery,Shev bhaji sev pav kg,60.0,Expense,INR
+31/07/2019 03:37:28,Cash,Other,Gift,Birthday Gift,811.35,Expense,INR
+02/08/2019 09:07:20,Cash,Apparel,Laundry,Blanket cleaned,143.36,Expense,INR
+13/03/2017 21:30:25,Cash,Beauty,grooming,hair cut,100.0,Expense,INR
+4/1/2018,Saving Bank account 1,Small cap fund 1,,,5000.0,Transfer-Out,INR
+26/05/2018 07:55:09,Cash,Transportation,auto,Permanent Residence to Motor Driving school,50.0,Expense,INR
+04/06/2022 21:45:21,Credit Card,Festivals,Diwali,,915.81,Expense,INR
+31/08/2015 13:33:18,Saving Bank account 1,Salary,,From workplace ,49806.0,Income,INR
+17/11/2017 22:25:48,Saving Bank account 1,Household,Kirana,Agarbatti 55 + dahi 25,80.0,Expense,INR
+6/3/2015,Cash,Transportation,auto,B45 to brc,10.0,Expense,INR
+07/03/2020 11:07:11,Saving Bank account 1,Festivals,Holi,,198.64,Expense,INR
+11/1/2015,Cash,Beauty,,shaving,50.0,Expense,INR
+27/02/2016 07:49:16,Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider recharge wfh,251.0,Expense,INR
+3/1/2017,Cash,Food,Water,,70.0,Expense,INR
+2/7/2018,Saving Bank account 1,Household,Kirana,Supermart,1595.0,Expense,INR
+19/11/2016 12:12:00,Cash,Other,,Sayaji baug express (50/adult),100.0,Expense,INR
+11/08/2022 08:15:11,Credit Card,Transportation,Train,Place A to B,641.87,Expense,INR
+22/05/2020 10:07:08,Cash,Transportation,Train,Place A to B,280.15,Expense,INR
+1/3/2018,Saving Bank account 1,Public Provident Fund,,,10000.0,Transfer-Out,INR
+1/1/2015,Cash,Transportation,,share jeep - Place T to brc,60.0,Expense,INR
+13/05/2017 18:02:21,Cash,Food,Tea,,10.0,Expense,INR
+30/06/2021 00:45:31,Cash,Food,Milk,1L Amul milk,629.87,Expense,INR
+10/12/2016,Saving Bank account 1,Investment,Mutual fund,,1000.0,Expense,INR
+29/10/2019 13:26:18,Credit Card,Other,Gift,Festival Gift,408.73,Expense,INR
+12/12/2015,Saving Bank account 1,Transportation,auto,within city,50.0,Expense,INR
+11/9/2018,Saving Bank account 1,Other,,From Family,3500.0,Income,INR
+30/08/2021 23:02:21,Credit Card,Transportation,Train,To Office,881.98,Expense,INR
+3/7/2018,Cash,maid,,,500.0,Expense,INR
+15/01/2015 18:23:03,Cash,Food,,tea,10.0,Expense,INR
+24/04/2018 22:24:28,Credit Card,subscription,Tata Sky,Permanent Residence - Tata Play recharge,157.0,Expense,INR
+12/3/2017,Cash,Food,Lunch,pav bhaji pav(90) + 4 pav extra(40),130.0,Expense,INR
+11/10/2022 23:03:36,Credit Card,Apparel,Laundry,5 clothes washed,699.13,Expense,INR
+17/08/2017 19:36:33,Cash,Food,snacks,2 Bhaji pav + 1 vadapav,45.0,Expense,INR
+22/02/2018 20:38:20,Saving Bank account 1,Food,Onions,onion 1 kg,20.0,Expense,INR
+18/11/2017 20:32:08,Saving Bank account 1,Food,Eggs,6 eggs,39.0,Expense,INR
+17/03/2021 15:50:08,Cash,Festivals,Holi,,174.21,Expense,INR
+1/4/2018,Cash,Food,Milk,milk 1lit ,72.0,Expense,INR
+29/07/2020 09:11:26,Cash,Food,snacks,Vadapav & Tea,355.2,Expense,INR
+1/4/2017,Saving Bank account 1,Money transfer,,,10000.0,Expense,INR
+13/05/2017 10:43:50,Cash,Food,Tea,,5.0,Expense,INR
+23/02/2018 22:34:02,Cash,Health,Medicine,Refresh Tears Drop,128.0,Expense,INR
+09/01/2021 05:44:43,Cash,Festivals,Ganesh Pujan,,584.09,Expense,INR
+16/03/2016 12:44:04,Saving Bank account 1,Gift,,Ganesh murthi,80.0,Expense,INR
+12/11/2017,Credit Card,Other,,Shopping at Alfa,3690.0,Expense,INR
+17/08/2018 12:40:28,Saving Bank account 1,Dividend earned on Shares,,Pidilite Stocks,22.0,Income,INR
+15/05/2018 20:11:58,Saving Bank account 1,Food,Ice cream,Cookies & cream family pack,135.0,Expense,INR
+25/03/2018 21:14:42,Cash,Transportation,Bike,Station Parking,10.0,Expense,INR
+21/09/2017 07:52:53,Cash,Family,Pocket money,,70.0,Expense,INR
+8/7/2018,Cash,Transportation,Taxi,Ola cab - Current Residence CHS to eye institute,130.0,Expense,INR
+2/4/2016,Cash,Food,beverage,rasna orange,20.0,Expense,INR
+30/07/2017 15:36:42,Saving Bank account 1,Household,Appliances,Laptop repair ( 128gb SSD rs 2200+ 500gb HDD Rs.1800 + Msoffice+ windows),3000.0,Expense,INR
+12/12/2017,Cash,Food,Eggs,6 eggs,40.0,Expense,INR
+27/05/2018 10:50:10,Saving Bank account 2,Interest,,interest paid,28.0,Income,INR
+9/2/2015,Cash,Food,,paneer,35.0,Expense,INR
+08/10/2019 22:13:12,Credit Card,Transportation,Train,To Office,768.57,Expense,INR
+22/01/2018 12:08:08,Cash,Food,flour mill,M D sure 3kg atta,162.0,Expense,INR
+24/10/2017 10:58:47,Cash,Food,snacks,Dahi,10.0,Expense,INR
+21/07/2018 19:02:36,Cash,Household,Kirana,Supermart,368.0,Expense,INR
+5/1/2016,Saving Bank account 1,Investment,RD,,1000.0,Expense,INR
+24/05/2017 08:46:43,Cash,Transportation,Train,Place 0 to Vikhroli return,30.0,Expense,INR
+19/05/2018 19:26:19,Cash,Household,Kitchen,flour mill,25.0,Expense,INR
+19/06/2017 10:19:53,Saving Bank account 1,Food,Grocery,Amul malai paneer pav kg,80.0,Expense,INR
+14/03/2021 06:50:08,Credit Card,Transportation,Train,To Office,939.35,Expense,INR
+10/10/2017,Saving Bank account 1,Equity Mutual Fund F,,,1000.0,Transfer-Out,INR
+2/11/2016,Cash,Grooming,Saloon,cutting + shaving,80.0,Expense,INR
+13/12/2016 21:42:22,Cash,Household,Toiletries,oralB toothbrush with cap,25.0,Expense,INR
+18/03/2018 17:16:09,Cash,Food,Tea,cutting chai,10.0,Expense,INR
+1/1/2015,Cash,Transportation,,share jeep - Place T top to base,20.0,Expense,INR
+7/2/2015,Cash,Food,,tea,6.0,Expense,INR
+25/03/2018 21:12:38,Credit Card,Food,snacks,French crossiant,80.0,Expense,INR
+5/8/2018,Credit Card,Apparel,Clothing,For Family,3410.0,Expense,INR
+20/08/2017 20:59:43,Cash,Transportation,auto,BKC to kurla station,60.0,Expense,INR
+11/5/2015,Saving Bank account 1,Investment,Mutual fund, mutual fund,1000.0,Expense,INR
+22/05/2017,Saving Bank account 1,Life Insurance,,,11043.0,Transfer-Out,INR
+5/11/2017,Cash,Transportation,auto,Place 0 to Current Residence,15.0,Expense,INR
+31/12/2016 09:09:24,Saving Bank account 1,Food,Grocery,edible oil,160.0,Expense,INR
+2/2/2018,Saving Bank account 1,Food,Lunch,Catering Service,82.0,Expense,INR
+19/01/2017 00:12:27,Saving Bank account 1,Family,medicine,syrup,145.0,Expense,INR
+31/03/2019 08:37:51,Credit Card,Festivals,Holi,,959.85,Expense,INR
+20/12/2022 11:56:34,Saving Bank account 1,subscription,Netflix,Annual plan,31.99,Expense,INR
+26/07/2018 23:06:09,Cash,Food,Biscuits,Toast packet,40.0,Expense,INR
+08/09/2021 13:36:59,Cash,Festivals,Diwali,,273.59,Expense,INR
+11/8/2017,Cash,Transportation,Bus,2 Place 1 to VN,330.0,Expense,INR
+1/9/2015,Saving Bank account 1,Public Provident Fund,,,10000.0,Expense,INR
+14/08/2020 13:50:57,Saving Bank account 1,Festivals,Holi,,713.78,Expense,INR
+15/10/2019 12:36:51,Credit Card,Income,Bonus,Year-end bonus,14752.59,Income,INR
+17/09/2018 01:47:26,Credit Card,Transportation,Auto,Office to Home,714.3,Expense,INR
+08/08/2022 08:51:37,Cash,Apparel,Laundry,Blanket cleaned,827.06,Expense,INR
+19/02/2015 20:51:37,Cash,Health,Medicine,koflet,34.0,Expense,INR
+11/7/2017,Saving Bank account 1,Family,Pocket money,,5000.0,Expense,INR
+13/05/2017 18:02:10,Saving Bank account 1,Food,Lunch,4 chapati,20.0,Expense,INR
+14/05/2018 18:01:15,Cash,Food,snacks,Potato chips,15.0,Expense,INR
+07/12/2019 13:24:25,Credit Card,subscription,Amazon Prime,,922.53,Expense,INR
+30/07/2018 11:49:11,Cash,Food,breakfast,1 plates poha,25.0,Expense,INR
+23/04/2017 23:52:40,Saving Bank account 1,Food,vegetables,Ladyfinger pav kg,15.0,Expense,INR
+1/1/2015,Cash,Transportation,,ropeway Place T to and fro,142.0,Expense,INR
+27/06/2018 13:59:52,Cash,Transportation,auto,2 Current Residence to Place 0,30.0,Expense,INR
+23/10/2017 19:00:08,Cash,Apparel,Footwear,Slippers,220.0,Expense,INR
+9/10/2016,Saving Bank account 1,Food,Grocery,mosambi 1kg+ gavar pav kilo+lemon 3 + kothimbir,90.0,Expense,INR
+05/10/2019 13:05:52,Saving Bank account 1,Festivals,Diwali,,278.87,Expense,INR
+23/01/2018 21:28:59,Credit Card,Household,Kirana,Smart point,273.0,Expense,INR
+13/11/2017 20:18:06,Saving Bank account 1,Food,Milk,milk 1lit varna,70.0,Expense,INR
+10/4/2018,Cash,Food,Lunch,Catering Service,70.0,Expense,INR
+1/12/2016,Saving Bank account 1,Money transfer,,,10000.0,Expense,INR
+21/11/2016 09:41:12,Cash,Transportation,auto,within city,50.0,Expense,INR
+12/12/2019 14:37:03,Credit Card,Festivals,Holi,,845.89,Expense,INR
+07/09/2020 04:54:51,Cash,Investment,Small Cap fund 2,,3485.33,Transfer-Out,INR
+16/02/2021 01:03:35,Saving Bank account 1,Food,snacks,Chips & Cola,561.42,Expense,INR
+17/01/2022 21:35:21,Saving Bank account 1,Festivals,Ganesh Pujan,,911.57,Expense,INR
+10/5/2017,Saving Bank account 1,Education,Stationary,Courier,100.0,Expense,INR
+5/3/2017,Saving Bank account 1,Recurring Deposit,,,1000.0,Transfer-Out,INR
+16/01/2018 09:20:40,Cash,Household,Kirana,Bhagar 1kg 130 + idli pith 1kg 35,165.0,Expense,INR
+19/02/2017 08:04:37,Cash,Food,beverage,sugarcane juice 2,30.0,Expense,INR
+27/08/2018 10:52:09,Cash,Food,Milk,Half lit  milk,36.0,Expense,INR
+20/06/2022 19:24:45,Saving Bank account 1,Income,Salary,Monthly salary,18418.32,Income,INR
+01/01/2021 10:37:43,Cash,Investment,Small Cap fund 2,,8500.32,Transfer-Out,INR
+06/08/2022 09:41:19,Saving Bank account 1,Apparel,Laundry,5 clothes washed,589.31,Expense,INR
+29/06/2022 12:07:40,Credit Card,Other,Gift,Festival Gift,598.28,Expense,INR
+26/06/2018 17:25:23,Saving Bank account 1,Household,Appliances,Aqugurad water purifier,13050.0,Expense,INR
+30/01/2017 07:24:02,Cash,Food,snacks,single pav vada,15.0,Expense,INR
+5/3/2015,Cash,Beauty,grooming,,40.0,Expense,INR
+7/1/2017,Saving Bank account 1,Equity Mutual Fund E,,,1000.0,Transfer-Out,INR
+13/03/2019 22:41:55,Saving Bank account 1,Food,Milk,Half litre milk,971.42,Expense,INR
+03/03/2022 17:11:50,Saving Bank account 1,subscription,Amazon Prime,,486.92,Expense,INR
+23/08/2022 05:47:59,Saving Bank account 1,Food,Milk,Half litre milk,336.98,Expense,INR
+23/04/2018 18:21:36,Saving Bank account 1,Household,Kirana,Idli pith 1kg,38.0,Expense,INR
+30/05/2018 07:42:56,Saving Bank account 1,Dividend earned on Shares,,HDFC Stocks,88.0,Income,INR
+15/04/2018 14:39:37,Cash,Transportation,Train,Place 0 to Place 4 return,20.0,Expense,INR
+20/08/2017 09:37:13,Cash,Apparel,Laundry,clothes ironing : Rs 6 per item,48.0,Expense,INR
+06/10/2019 11:37:09,Credit Card,Food,Grocery,Monthly stock,383.53,Expense,INR
+02/03/2019 16:57:20,Cash,Income,Bonus,Year-end bonus,38830.75,Income,INR
+29/06/2022 13:12:17,Saving Bank account 1,Food,snacks,Vadapav & Tea,67.84,Expense,INR
+11/08/2022 20:54:31,Credit Card,Food,Grocery,Fruits & Veggies,921.52,Expense,INR
+23/01/2020 23:30:48,Credit Card,subscription,Mobile Service Provider,,218.5,Expense,INR
+28/04/2017 11:17:49,Saving Bank account 1,Food,Ice cream,Cup of butterscotch (20) + chocobar (10),30.0,Expense,INR
+28/05/2022 04:03:23,Cash,Transportation,Train,Place A to B,304.24,Expense,INR
+13/12/2022 21:43:48,Saving Bank account 1,subscription,Netflix,Annual plan,538.25,Expense,INR
+24/07/2019 07:38:52,Saving Bank account 1,Investment,Equity Mutual Fund E,,6661.03,Transfer-Out,INR
+19/03/2017 13:28:22,Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider freedom pack,296.0,Expense,INR
+5/4/2017,Saving Bank account 1,Equity Mutual Fund A,,,1000.0,Transfer-Out,INR
+8/12/2016,Saving Bank account 1,Food,Grocery,cheese cubes(2),30.0,Expense,INR
+05/11/2022 21:29:02,Cash,Transportation,Train,To Office,106.26,Expense,INR
+26/03/2018 09:55:55,Credit Card,subscription,Tata Sky,Permanent Residence - Tata Play recharge,157.0,Expense,INR
+17/04/2021 06:41:21,Cash,Other,Misc,,473.89,Expense,INR
+27/06/2022 04:23:12,Cash,Investment,Equity Mutual Fund E,,4107.85,Transfer-Out,INR
+28/06/2017 22:50:55,Cash,Transportation,auto,2 Current Residence to Place 0,30.0,Expense,INR
+19/11/2018 13:01:29,Saving Bank account 1,Food,Lunch,Home Delivery,139.16,Expense,INR
+11/04/2021 04:46:15,Cash,Income,Salary,Monthly salary,20928.06,Income,INR
+15/05/2017 19:28:42,Cash,Food,Dinner,Veg cheese grill sandwich,100.0,Expense,INR
+13/02/2018 20:22:43,Saving Bank account 1,Food,Grocery,Amul cheese,72.0,Expense,INR
+20/09/2018 12:04:08,Cash,Transportation,Train,2 Place 5 to Place 0,30.0,Expense,INR
+23/03/2021 11:49:30,Cash,Income,Freelance,Upwork payout,16177.98,Income,INR
+10/7/2017,Saving Bank account 1,Food,Rajgira ladu,2 packets,50.0,Expense,INR
+08/07/2021 05:40:56,Credit Card,Apparel,Laundry,5 clothes washed,760.05,Expense,INR
+13/01/2020 00:48:54,Saving Bank account 1,subscription,Amazon Prime,,287.59,Expense,INR
+1/7/2017,Saving Bank account 1,Recurring Deposit,,,1000.0,Transfer-Out,INR
+15/09/2019 23:01:44,Saving Bank account 1,Other,Donation,To Temple,494.53,Expense,INR
+26/02/2016 20:25:51,Saving Bank account 1,Salary,,From workplace ,49806.0,Income,INR
+15/09/2017 22:32:40,Cash,Food,Dinner,Sugaran Kitchen,60.0,Expense,INR
+22/03/2018 12:47:34,Cash,Food,Milk,milk 1lit ,72.0,Expense,INR
+1/5/2017,Saving Bank account 1,Food,Dinner,2 Fried rice,321.0,Expense,INR
+25/07/2017 19:31:06,Saving Bank account 1,Tourism,Trip,Tours and Travel,20000.0,Expense,INR
+9/3/2015,Cash,Other,,print out,6.0,Expense,INR
+29/01/2018 07:49:22,Saving Bank account 1,Food,Milk,1 lit ,69.0,Expense,INR
+27/06/2018 18:19:27,Credit Card,Apparel,Footwear,Rainy season chappal,550.0,Expense,INR
+22/05/2016 11:13:40,Saving Bank account 1,Grooming,Saloon,hair cut+shaving,120.0,Expense,INR
+21/01/2015 13:12:12,Cash,Transportation,,train - bdts to brc,264.0,Expense,INR
+16/04/2018 20:55:46,Saving Bank account 1,Household,Kirana,Cockroach injection,270.0,Expense,INR
+14/05/2018 23:09:55,Saving Bank account 1,Amazon pay cashback,,,21.0,Income,INR
+26/11/2019 22:47:31,Credit Card,Festivals,Ganesh Pujan,,266.15,Expense,INR
+21/07/2022 05:39:53,Saving Bank account 1,Food,Grocery,Monthly stock,530.33,Expense,INR
+13/11/2017 20:17:00,Credit Card,Household,Kirana,Maggie + lizol,268.0,Expense,INR
+28/04/2018 21:03:59,Credit Card,Food,Dinner,Home Food Delivery,413.0,Expense,INR
+1/12/2017,Share Market Trading,Saving Bank account 1,,Fund Withdrawal,100000.0,Transfer-Out,INR
+10/7/2018,Saving Bank account 1,Dividend earned on Shares,,Tata Steel Stocks,180.0,Income,INR
+27/10/2016 13:57:56,Cash,Food,Grocery,mehndi,25.0,Expense,INR
+3/7/2018,Credit Card,subscription,Tata Sky,Current Residence - Tata Play recharge,154.0,Expense,INR
+13/05/2018 20:18:01,Cash,Apparel,Laundry,clothes ironing,77.0,Expense,INR
+25/06/2020 07:30:45,Saving Bank account 1,Food,Lunch,Home Delivery,222.54,Expense,INR
+10/2/2017,Saving Bank account 1,Equity Mutual Fund F,,,1000.0,Transfer-Out,INR
+16/06/2017 23:18:37,Saving Bank account 1,Gift,,Jeff kellar's winning attitude,137.0,Expense,INR
+19/08/2017 11:49:24,Cash,Household,Kirana,Dettol sanitizer,45.0,Expense,INR
+19/02/2018 22:15:12,Saving Bank account 1,Beauty,grooming,hair cut+shaving,170.0,Expense,INR
+1/2/2018,Saving Bank account 1,Public Provident Fund,,,10000.0,Transfer-Out,INR
+16/05/2015 11:24:15,Saving Bank account 1,Food,Milk,milk half shakti,26.0,Expense,INR
+31/08/2018 09:27:28,Saving Bank account 1,Salary,,From workplace ,70255.0,Income,INR
+2/7/2018,Cash,Transportation,auto,Place 1 bridge to Current Residence 2 seats,50.0,Expense,INR
+04/02/2021 20:59:57,Saving Bank account 1,Transportation,Bus,Commute to Market,321.23,Expense,INR
+08/10/2018 07:13:37,Cash,Other,Donation,Street Charity,291.53,Expense,INR
+23/03/2018 19:48:39,Cash,Culture,Books,Finding next Job,100.0,Expense,INR
+24/07/2017 10:04:20,Saving Bank account 1,Food,Eggs,4 eggs,22.0,Expense,INR
+18/03/2015 18:27:14,Cash,Food,snacks,samosa+tea+veg cheese grill sandwich,53.0,Expense,INR
+7/6/2018,Saving Bank account 1,Equity Mutual Fund E,,,1000.0,Transfer-Out,INR
+23/03/2017 22:03:29,Saving Bank account 1,Food,beverage,3 sugarcane juice,60.0,Expense,INR
+4/1/2018,Cash,Household,Kirana,Cockroach injection,270.0,Expense,INR
 27/02/2018 13:21:31,Cash,Food,Lunch,5 chapati,30.0,Expense,INR
+11/05/2021 16:09:53,Cash,Apparel,Laundry,Blanket cleaned,84.13,Expense,INR
+9/7/2017,Saving Bank account 1,Food,snacks,Vadapav,20.0,Expense,INR
+2/4/2015,Cash,Cook,,,5000.0,Expense,INR
+2/8/2015,Saving Bank account 1,Public Provident Fund,,,10000.0,Expense,INR
+21/12/2016 21:57:01,Saving Bank account 1,Family,clothes,sweater,1874.0,Expense,INR
+31/01/2016 11:19:58,Saving Bank account 1,Money transfer,,,10000.0,Expense,INR
+21/12/2016 19:58:12,Saving Bank account 1,Transportation,Travels,Place 2 to Place 1 - Novelty tour and travels,1900.0,Expense,INR
+5/1/2016,Cash,Transportation,auto,grandparents to Permanent Residence,30.0,Expense,INR
+16/08/2022 13:01:53,Cash,Food,Grocery,Fruits & Veggies,61.17,Expense,INR
+25/04/2017 10:30:36,Saving Bank account 1,Food,snacks,2 kachori,24.0,Expense,INR
+25/03/2017 14:50:06,Saving Bank account 1,Gpay Reward,,reward Gpay,6.0,Income,INR
+31/12/2017 07:21:05,Saving Bank account 1,Interest,,interest paid,594.0,Income,INR
+20/03/2018 16:15:59,Cash,Food,breakfast,Bread,18.0,Expense,INR
+13/03/2018 12:39:40,Cash,Family,Pocket money,,480.0,Expense,INR
+20/08/2017 20:58:05,Cash,Transportation,Taxi,Dadar West to siddhivinayak,25.0,Expense,INR
+26/11/2017 17:29:44,Cash,Transportation,auto,Place 6 station to eye institute,40.0,Expense,INR
+5/12/2017,Saving Bank account 1,Equity Mutual Fund A,,,1000.0,Transfer-Out,INR
+18/03/2018 20:40:33,Cash,Transportation,Bike,Station Parking,10.0,Expense,INR
+1/12/2016,Saving Bank account 1,Investment,Public Provident Fund,,40000.0,Expense,INR
+9/4/2018,Cash,Food,Milk,milk 1lit ,72.0,Expense,INR
+21/03/2021 12:11:24,Saving Bank account 1,Income,Freelance,Upwork payout,17670.6,Income,INR
+4/2/2015,Cash,Food,,milk half shakti,26.0,Expense,INR
+22/07/2019 08:55:56,Credit Card,Investment,Equity Mutual Fund E,,3526.94,Transfer-Out,INR
+4/12/2016,Cash,Food,snacks,3 chips packets,15.0,Expense,INR
+11/1/2016,Saving Bank account 1,Investment,RD,,1000.0,Expense,INR
+15/09/2017 11:46:38,Saving Bank account 1,Transportation,Travels,2 Place 2 to Place 1 - Novelty tour and travels,1400.0,Expense,INR
+10/5/2017,Saving Bank account 1,Food,Lunch,Dudhi 30 + 3 chapati,45.0,Expense,INR
+07/06/2021 22:56:17,Credit Card,Festivals,Ganesh Pujan,,930.88,Expense,INR
+9/6/2018,Credit Card,subscription,Mobile Service Provider,Data booster pack,667.0,Expense,INR
+5/3/2016,Saving Bank account 1,Investment,RD,,1000.0,Expense,INR
+23/07/2021 14:25:15,Credit Card,subscription,Mobile Service Provider,,542.24,Expense,INR
+27/11/2020 12:31:45,Credit Card,Income,Salary,Monthly salary,15992.95,Income,INR
+5/3/2017,Cash,Transportation,auto,Current Residence to Place 0,30.0,Expense,INR
+18/10/2022 19:01:11,Saving Bank account 1,Festivals,Ganesh Pujan,,577.38,Expense,INR
+29/10/2021 06:30:29,Credit Card,Apparel,Laundry,5 clothes washed,832.8,Expense,INR
+21/01/2017 19:23:37,Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider recharge,149.0,Expense,INR
+02/12/2020 03:17:00,Credit Card,Transportation,Auto,Office to Home,778.08,Expense,INR
+21/11/2015 21:39:44,Cash,Food,Eggs,1 dozen,84.0,Expense,INR
+27/10/2016 13:57:56,Saving Bank account 1,Family,gift,Undated Planner - June shop,1119.2,Expense,INR
 18/03/2017 09:41:44,Cash,Food,snacks,2 samosa (32) + 25 Pani Puri,57.0,Expense,INR
+28/05/2021 21:40:17,Saving Bank account 1,Other,Donation,To Temple,265.44,Expense,INR
+1/9/2017,Cash,maid,,,820.0,Expense,INR
+15/01/2015 22:22:20,Cash,Food,,Ratri Bazar,155.0,Expense,INR
+3/1/2018,Saving Bank account 1,Food,Milk,1 lit ,69.0,Expense,INR
+1/3/2018,Cash,Food,Eggs,6 eggs,36.0,Expense,INR
+26/03/2022 05:47:55,Cash,Transportation,Train,To Office,734.05,Expense,INR
+10/03/2021 19:50:11,Cash,Transportation,Train,Place A to B,862.37,Expense,INR
+6/3/2016,Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider recharge wfh,251.0,Expense,INR
+10/2/2016,Saving Bank account 1,Investment,Mutual fund,Mutual fund C,1000.0,Expense,INR
+11/8/2017,Cash,Gift,,Rakshabandhan ovalini,500.0,Expense,INR
+3/12/2017,Saving Bank account 1,Food,Lunch,Home Food Delivery - Chicken lollypop 8 pcs 190 + chicken manchow soup 100,290.0,Expense,INR
+18/04/2017 13:19:27,Saving Bank account 1,Food,Milk,milk 1lit ,64.0,Expense,INR
+02/08/2021 20:57:05,Saving Bank account 1,Income,Freelance,Upwork payout,20820.91,Income,INR
+1/11/2016,Cash,Food,fruits,mosambi 1kg,50.0,Expense,INR
+19/04/2019 22:45:06,Saving Bank account 1,subscription,Spotify,,426.75,Expense,INR
+26/10/2017 19:23:26,Cash,Festivals,Diwali,Offering,50.0,Expense,INR
+09/10/2018 10:03:15,Credit Card,subscription,Netflix,Monthly plan,949.41,Expense,INR
+18/01/2015 07:33:20,Cash,Food,,vegetable,60.0,Expense,INR
+29/01/2017 19:24:30,Cash,Food,Milk,half liter buffalo,35.0,Expense,INR
+8/5/2018,Cash,Beauty,grooming,Shaving,50.0,Expense,INR
+30/01/2021 04:33:04,Cash,Food,Milk,1L Amul milk,639.33,Expense,INR
+22/02/2018 19:19:32,Saving Bank account 1,Food,Lunch,Catering Service,192.0,Expense,INR
+8/9/2017,Cash,Food,flour mill,M D sure 4kg atta,196.0,Expense,INR
+29/09/2019 09:17:59,Credit Card,Income,Salary,Monthly salary,12151.21,Income,INR
+07/03/2022 10:24:51,Cash,Income,Bonus,Year-end bonus,18086.93,Income,INR
+12/2/2017,Saving Bank account 1,Other,,laptop repair (format 350 + quick heal pro 500),850.0,Expense,INR
+5/9/2015,Saving Bank account 1,Recurring Deposit,,,1000.0,Expense,INR
+11/11/2017,Saving Bank account 1,Food,Eggs,6 eggs,39.0,Expense,INR
+24/09/2021 21:23:22,Cash,Food,Lunch,Restaurant,942.81,Expense,INR
+16/05/2015 14:52:42,Saving Bank account 1,Other,,splitwise settlement,607.0,Expense,INR
+31/03/2017 21:03:22,Cash,Food,Lunch,( pav bhaji + 2 extra pav + sabudana khichdi + kothimbir vada + masala bhat + piyush ),495.0,Expense,INR
+22/08/2017 16:11:00,Cash,Household,Kitchen,Mahanagar Gas connection installation,300.0,Expense,INR
+05/03/2021 14:54:14,Cash,Income,Bonus,Year-end bonus,35983.15,Income,INR
+9/11/2017,Credit Card,Household,Kirana,,67.0,Expense,INR
 21/11/2016 09:41:12,Cash,Health,Medicine,strepsils,15.0,Expense,INR
+9/1/2015,Cash,Other,,participation fee - corporate cricket league,650.0,Expense,INR
+1/8/2017,Saving Bank account 1,Public Provident Fund,,,10000.0,Transfer-Out,INR
+5/9/2018,Saving Bank account 1,Food,Milk,Half lit  milk,36.0,Expense,INR
+29/06/2017 19:49:10,Saving Bank account 1,Beauty,grooming,Shaving,60.0,Expense,INR
+19/11/2016 12:12:00,Cash,Transportation,auto,within city,50.0,Expense,INR
+1/9/2017,Saving Bank account 1,Recurring Deposit,,,1000.0,Transfer-Out,INR
+28/02/2017 22:13:04,Cash,Transportation,auto,Place 0 to Current Residence,30.0,Expense,INR
+02/12/2018 00:37:27,Credit Card,Transportation,Train,Place A to B,339.21,Expense,INR
+20/02/2020 13:57:58,Cash,subscription,Mobile Service Provider,,45.19,Expense,INR
+14/08/2018 10:59:46,Saving Bank account 1,Dividend earned on Shares,,ITC Stocks,124.0,Income,INR
+14/03/2022 20:21:27,Saving Bank account 1,Transportation,Auto,Office to Home,497.09,Expense,INR
+02/10/2018 09:39:46,Cash,Festivals,Diwali,,419.4,Expense,INR
+8/9/2016,Saving Bank account 1,subscription,Mobile Service Provider,,251.0,Expense,INR
+10/03/2022 16:48:36,Cash,Other,Gift,Festival Gift,369.2,Expense,INR
+15/09/2017 13:32:36,Saving Bank account 1,Food,Lunch,,130.0,Expense,INR
+31/08/2018 15:12:20,Cash,Gift,,farewell contribution,118.0,Expense,INR
+24/09/2017 21:05:55,Cash,Transportation,auto,2 Place 0 to Current Residence,30.0,Expense,INR
+16/10/2018 07:00:23,Credit Card,subscription,Amazon Prime,,867.98,Expense,INR
+13/10/2019 13:06:37,Saving Bank account 1,Income,Salary,Monthly salary,38550.23,Income,INR
+28/06/2021 19:00:13,Credit Card,Income,Salary,Monthly salary,32228.67,Income,INR
+17/04/2018 09:04:44,Cash,Food,Milk,milk 1lit ,72.0,Expense,INR
+30/04/2017 19:53:16,Cash,Food,snacks,2 Pani Puri+ 1 samosa chat,110.0,Expense,INR
+11/2/2015,Cash,Food,,paneer 150 gm,54.0,Expense,INR
+20/10/2017 19:54:58,Cash,Festivals,Diwali,Rangoli + stamp,20.0,Expense,INR
+17/03/2022 03:29:56,Cash,Other,Misc,,465.44,Expense,INR
+31/07/2015 14:38:08,Saving Bank account 1,Salary,,From workplace ,47859.0,Income,INR
+3/5/2017,Cash,Transportation,train,Place 3 to Place 2 sevagram,1100.0,Expense,INR
+23/09/2017 21:04:58,Saving Bank account 1,Food,Dinner,Chicken masala gravy,100.0,Expense,INR
+20/11/2017 18:39:05,Cash,scrap,,,200.0,Income,INR
+11/12/2016,Saving Bank account 1,Health,Medicine,eye drop maxmoist,257.0,Expense,INR
+14/04/2015 12:24:47,Saving Bank account 1,Other,,covid19 donation to PM fund,500.0,Expense,INR
+6/5/2016,Saving Bank account 1,subscription,Mobile Service Provider,,251.0,Expense,INR
+29/01/2018 07:50:07,Saving Bank account 1,Food,Biscuits,Khari packet,45.0,Expense,INR
+2/5/2015,Cash,Food,Milk,milk half shakti,28.0,Expense,INR
+22/05/2017 09:55:12,Saving Bank account 1,Food,beverage,Coke 750ml,40.0,Expense,INR
+5/6/2015,Saving Bank account 1,Investment,Mutual fund,ICICI prudential,1000.0,Expense,INR
+13/02/2018 06:58:06,Saving Bank account 1,Food,Milk,1 lit ,72.0,Expense,INR
+3/7/2018,Saving Bank account 1,Dividend earned on Shares,,Infosys Stocks,52.5,Income,INR
+14/01/2018 15:22:51,Cash,Transportation,auto,station to Decathlon,20.0,Expense,INR
+22/03/2018 12:50:18,Cash,Food,Rajgira ladu,1 packet,20.0,Expense,INR
+11/9/2017,Saving Bank account 1,Food,snacks,Idli 4 pcs + kachori 4 pcs,93.0,Expense,INR
+31/10/2018 08:10:30,Cash,Food,Grocery,Monthly stock,560.59,Expense,INR
+26/02/2015 20:06:17,Cash,Food,Tea,,6.0,Expense,INR
+4/4/2015,Cash,garbage disposal,,,50.0,Expense,INR
+30/10/2016 15:03:18,Saving Bank account 1,Salary,,From workplace ,56647.0,Income,INR
+21/03/2020 13:33:41,Credit Card,Investment,Equity Mutual Fund E,,8225.68,Transfer-Out,INR
+10/5/2018,Saving Bank account 1,Food,Ice cream,2 Faluda,80.0,Expense,INR
+1/5/2017,Cash,Transportation,Train,2 Place 0 to WS single,10.0,Expense,INR
+3/3/2015,Cash,maid,,,333.0,Expense,INR
+18/07/2017 21:44:59,Saving Bank account 1,Food,beverage,Thumbs up 250ml,20.0,Expense,INR
+3/7/2018,Equity Mutual Fund B,Saving Bank account 1,,,2000.0,Transfer-Out,INR
+16/12/2017 07:24:10,Saving Bank account 1,Food,Milk,milk 1lit ,69.0,Expense,INR
+24/08/2017 22:31:56,Cash,Transportation,auto,Auto : Mahal to hotel,40.0,Expense,INR
+01/04/2021 11:26:32,Saving Bank account 1,Festivals,Holi,,292.68,Expense,INR
+17/04/2017 19:56:53,Saving Bank account 1,Family,clothes,H&M clothes,1497.0,Expense,INR
+9/4/2018,Cash,Food,Grocery,Ginger,10.0,Expense,INR
+8/5/2017,Saving Bank account 1,Food,Dinner,Egg fry + chicken lollypop,191.0,Expense,INR
+22/01/2018 10:25:11,Saving Bank account 1,Food,Milk,1 lit ,69.0,Expense,INR
+1/2/2015,Cash,Apparel,,undergarments,248.0,Expense,INR
+24/12/2017 21:24:36,Saving Bank account 1,Transportation,auto,2 Current Residence to Place 0,30.0,Expense,INR
+8/9/2016,Cash,Food,Grocery,bread,20.0,Expense,INR
+13/03/2017 21:46:14,Cash,Household,Hardware,Wall hanging clipboard,400.0,Expense,INR
+03/04/2019 14:44:45,Credit Card,Apparel,Laundry,Blanket cleaned,342.85,Expense,INR
+30/07/2019 04:54:04,Cash,Apparel,Laundry,Blanket cleaned,797.11,Expense,INR
+19/07/2019 05:14:22,Saving Bank account 1,subscription,Netflix,Annual plan,141.28,Expense,INR
+15/07/2018 09:41:01,Cash,Food,snacks,4 kachori,48.0,Expense,INR
+03/02/2019 14:25:10,Cash,Investment,Small Cap fund 2,,6445.56,Transfer-Out,INR
+10/12/2015,Saving Bank account 1,Investment,Mutual fund,,1000.0,Expense,INR
+17/12/2016 13:42:21,Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider recharge wfh,301.0,Expense,INR
+6/3/2018,Cash,Food,Milk,Half lit  milk,36.0,Expense,INR
+12/9/2017,Saving Bank account 1,Gpay Reward,,,5.0,Income,INR
+29/10/2017 22:56:05,Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider freedom pack,296.0,Expense,INR
+01/02/2021 17:24:38,Saving Bank account 1,Other,Donation,Street Charity,832.07,Expense,INR
+28/09/2020 14:36:27,Credit Card,Festivals,Ganesh Pujan,,180.06,Expense,INR
+27/11/2017 13:38:55,Cash,Transportation,Train,1 Place 0 to Place 6,5.0,Expense,INR
+10/8/2017,Saving Bank account 1,Gpay Reward,,,3.0,Income,INR
+30/06/2018 08:44:48,Saving Bank account 1,Salary,,From workplace ,65122.0,Income,INR
+12/2/2018,Saving Bank account 1,Food,curd,3 packets,30.0,Expense,INR
+6/4/2017,Saving Bank account 1,Transportation,train,Place 6 to Place 2 - 3Tier AC cancellation charges,213.6,Expense,INR
+29/10/2015 10:17:09,Saving Bank account 1,Transportation,Bus,redbus - brc to Place 2,665.0,Expense,INR
+06/11/2020 17:58:53,Cash,Apparel,Laundry,Blanket cleaned,365.86,Expense,INR
+24/03/2019 02:45:03,Saving Bank account 1,subscription,Amazon Prime,,751.17,Expense,INR
+3/5/2017,Saving Bank account 1,Household,Kitchen,Gas stove elica 3 burner,8825.0,Expense,INR
+3/2/2018,Credit Card,Transportation,Travels,Place 2 to Place 1 - Shree Sharma Travels,945.0,Expense,INR
+17/10/2021 18:51:51,Cash,Investment,Equity Mutual Fund E,,6787.2,Transfer-Out,INR
+16/08/2022 09:32:29,Cash,Festivals,Holi,,561.28,Expense,INR
+1/1/2018,Credit Card,Household,gadgets,Logitech mouse,599.0,Expense,INR
+30/12/2017 10:51:45,Cash,Food,vegetables,Dudhi 20 + mirchi 5,25.0,Expense,INR
+26/06/2017 11:38:23,Saving Bank account 1,Food,Grocery,Dahi 2 packets,20.0,Expense,INR
+12/1/2018,Credit Card,Household,Kirana,Smart point,226.0,Expense,INR
+14/03/2017 20:20:07,Cash,Household,Hardware,2 bath stool,300.0,Expense,INR
+31/08/2022 01:06:57,Credit Card,Transportation,Bus,To Tuition,216.93,Expense,INR
+7/7/2018,Saving Bank account 1,Equity Mutual Fund E,,,1000.0,Transfer-Out,INR
+21/09/2017 12:45:28,Cash,Food,snacks,Vadapav,15.0,Expense,INR
+14/11/2020 00:28:52,Cash,Income,Salary,Monthly salary,10252.42,Income,INR
+17/10/2017 13:18:33,Saving Bank account 1,Petty cash,,From Family,3000.0,Income,INR
+1/7/2017,Saving Bank account 1,Public Provident Fund,,,10000.0,Transfer-Out,INR
+11/8/2017,Cash,Transportation,auto,Current Residence to Place 1 bus stop highway,60.0,Expense,INR
+5/2/2018,Cash,Family,Pocket money,,500.0,Expense,INR
+5/12/2017,Saving Bank account 1,subscription,Tata Sky,Current Residence - Tata Play recharge,100.0,Expense,INR
+11/09/2021 21:42:55,Cash,subscription,Mobile Service Provider,,726.3,Expense,INR
+5/1/2017,Saving Bank account 1,Equity Mutual Fund A,,,1000.0,Transfer-Out,INR
+31/01/2018 22:00:22,Cash,Food,Dinner,At restaurant,320.0,Expense,INR
+06/01/2022 23:36:47,Saving Bank account 1,Other,Gift,Birthday Gift,124.63,Expense,INR
+21/06/2020 05:14:35,Cash,subscription,Amazon Prime,,445.56,Expense,INR
+1/4/2015,Cash,Food,Grocery,toothbrush + biscuits,50.0,Expense,INR
+18/01/2018 07:55:00,Saving Bank account 1,Food,Milk,1 lit ,69.0,Expense,INR
+20/03/2017 11:45:21,Saving Bank account 1,Household,Appliances,2 Spike guard,450.0,Expense,INR
+29/06/2020 11:25:50,Saving Bank account 1,Festivals,Holi,,894.74,Expense,INR
+5/2/2017,Cash,Transportation,auto,within city,40.0,Expense,INR
+18/02/2019 15:20:39,Cash,Investment,Equity Mutual Fund E,,9700.43,Transfer-Out,INR
+17/12/2017 17:48:57,Cash,Transportation,auto,college to inorbit,25.0,Expense,INR
+01/07/2022 01:21:13,Saving Bank account 1,Other,Donation,To Temple,526.52,Expense,INR
+28/01/2018 19:16:31,Credit Card,Household,Kirana,Supermart,764.0,Expense,INR
+21/09/2021 05:48:26,Saving Bank account 1,subscription,Spotify,,810.03,Expense,INR
+14/11/2018 16:59:26,Saving Bank account 1,Festivals,Diwali,,960.69,Expense,INR
+13/08/2018 18:37:27,Cash,Household,Appliances,5 litres can Distilled water,100.0,Expense,INR
