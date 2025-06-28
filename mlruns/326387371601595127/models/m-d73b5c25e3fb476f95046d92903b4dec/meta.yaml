@@ -1,0 +1,10 @@
+artifact_location: file:///D:/coding%202025-JUNE/expense-categorizer/mlruns/326387371601595127/models/m-d73b5c25e3fb476f95046d92903b4dec/artifacts
+creation_timestamp: 1751044030625
+experiment_id: '326387371601595127'
+last_updated_timestamp: 1751044038443
+model_id: m-d73b5c25e3fb476f95046d92903b4dec
+model_type: null
+name: model
+source_run_id: 383ffb96ce824f82a38cd800ab41c730
+status: 2
+status_message: null

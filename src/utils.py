@@ -6,12 +6,12 @@ import numpy as np
 from pathlib import Path
 from sklearn.model_selection import GridSearchCV, cross_val_score
 from sklearn.metrics import accuracy_score
-
 # Adding project root to sys.path
 sys.path.append(str(Path(__file__).parent.parent))
+# sys.path.append(str(Path(__file__).resolve().parent / 'src'))
 
-from exception import CustomException
 from logger import logging
+from exception import CustomException
 
 
 def save_object(file_path, obj):
@@ -101,3 +101,12 @@ def evaluate_model(X_train, y_train, X_test, y_test, models: dict, params: dict,
             raise CustomException(e, sys)
 
     return best_accuracy, best_model, report
+
+def load_obj(file_path):
+    print(file_path)
+    try:
+        with open(file_path, 'rb') as file:
+            return dill.load(file)
+
+    except Exception as e:
+        raise CustomException(e,sys)

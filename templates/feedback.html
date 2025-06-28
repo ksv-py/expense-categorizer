@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Feedback • Expense Categorizer</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+    }
+  </style>
+</head>
+<body class="bg-gray-950 text-white min-h-screen flex items-center justify-center px-4" >
+
+  <div class="bg-gradient-to-br from-gray-900 to-gray-800 p-8 rounded-2xl shadow-2xl w-full max-w-lg border border-gray-700">
+    <h2 class="text-2xl font-bold text-center text-indigo-400 mb-6">Prediction Feedback</h2>
+
+    <p class="text-lg mb-4 text-center">
+      <strong>Predicted Category:</strong>
+      <span class="text-green-400 font-semibold">{{ prediction }}</span>
+    </p>
+
+    <form method="POST" action="{{ url_for('feedback') }}" class="space-y-5">
+      <input type="hidden" name="prediction" value="{{ prediction }}">
+      <input type="hidden" name="amount" value="{{ data.Amount }}">
+      <input type="hidden" name="mode" value="{{ data.Mode }}">
+      <input type="hidden" name="subcategory" value="{{ data.Subcategory }}">
+
+      <!-- Is prediction correct -->
+      <div>
+        <label for="feedback_correct" class="block text-sm font-medium text-gray-300 mb-1">Is this prediction correct?</label>
+        <select name="feedback_correct" id="feedback_correct" required
+          onchange="toggleCorrection(this)"
+          class="w-full px-3 py-2 rounded-md bg-gray-700 text-white border border-gray-600 focus:outline-none focus:ring-2 focus:ring-indigo-500">
+          <option value="">Select...</option>
+          <option value="yes">Yes</option>
+          <option value="no">No</option>
+        </select>
+      </div>
+
+      <!-- Correction Dropdown -->
+      <div id="correction-dropdown" style="display:none;">
+        <label for="correct_category" class="block text-sm font-medium text-gray-300 mb-1">Select the correct category</label>
+        <select name="correct_category"
+          class="w-full px-3 py-2 rounded-md bg-gray-700 text-white border border-gray-600 focus:outline-none focus:ring-2 focus:ring-indigo-500">
+          {% set label_map = {
+              0: 'apparel', 1: 'beauty', 2: 'culture', 3: 'education', 4: 'family',
+              5: 'festivals', 6: 'food', 7: 'gift', 8: 'grooming', 9: 'health',
+              10: 'household', 11: 'investment', 12: 'money transfer', 13: 'other',
+              14: 'public provident fund', 15: 'recurring deposit', 16: 'rent',
+              17: 'self-development', 18: 'social life', 19: 'subscription',
+              20: 'tourism', 21: 'transportation', 22: 'water (jar /tanker)'
+          } %}
+          {% for idx, name in label_map.items() %}
+            <option value="{{ name }}">{{ name | capitalize }}</option>
+          {% endfor %}
+        </select>
+      </div>
+
+      <!-- Submit -->
+      <div>
+        <button type="submit"
+          class="w-full bg-indigo-600 hover:bg-indigo-700 transition-colors duration-200 text-white font-semibold py-2 px-4 rounded-md">
+          Submit Feedback
+        </button>
+      </div>
+    </form>
+  </div>
+    <div class="flex justify-between items-center mb-8">
+      <a href="/" class="text-sm bg-indigo-600 hover:bg-indigo-700 transition px-4 py-2 rounded-md shadow-md">← Back Home</a>
+    </div>
+  <script>
+    function toggleCorrection(select) {
+      const correctionDiv = document.getElementById('correction-dropdown');
+      correctionDiv.style.display = select.value === 'no' ? 'block' : 'none';
+    }
+  </script>
+
+</body>
+</html>

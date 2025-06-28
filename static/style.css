@@ -1,0 +1,91 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #222;
+    transition: background 0.3s ease, color 0.3s ease;
+}
+
+header {
+    background-color: #2b6777;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    position: sticky;
+    top: 0;
+}
+
+button#theme-toggle {
+    background-color: #52ab98;
+    border: none;
+    color: white;
+    padding: 8px 16px;
+    margin-top: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.summary-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.card {
+    background-color: white;
+    padding: 15px 20px;
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.1);
+    flex: 1;
+    min-width: 200px;
+    text-align: center;
+}
+
+.chart-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+.chart, .chart-full {
+    background-color: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.chart-full {
+    grid-column: span 2;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+
+/* Dark Mode */
+body.dark {
+    background-color: #1e1e1e;
+    color: #eee;
+}
+
+body.dark .card,
+body.dark .chart,
+body.dark .chart-full {
+    background-color: #2c2c2c;
+    color: #ddd;
+}
+
+body.dark header {
+    background-color: #121212;
+}
+
+body.dark button#theme-toggle {
+    background-color: #444;
+}

@@ -2,80 +2,104 @@ import pandas as pd
 import random
 from datetime import datetime, timedelta
 
-# Define parameters
-NUM_ENTRIES = 1000
+# Payment modes and constants
+modes = ['UPI', 'Cash', 'Credit Card', 'Netbanking', 'Debit Card']
+currency = 'INR'
+income_expense = ['Expense'] * 95 + ['Income'] * 5
 
-modes = ['Cash', 'Credit Card', 'Saving Bank account 1']
-categories = {
-    'Food': ['snacks', 'Milk', 'Grocery', 'Lunch'],
-    'Transportation': ['Train', 'Bus', 'Auto'],
-    'subscription': ['Netflix', 'Spotify', 'Mobile Service Provider', 'Amazon Prime'],
-    'Festivals': ['Diwali', 'Holi', 'Ganesh Pujan'],
-    'Apparel': ['Laundry'],
-    'Other': ['Gift', 'Donation', 'Misc'],
-    'Income': ['Salary', 'Freelance', 'Bonus', 'Gpay Reward'],
-    'Investment': ['Equity Mutual Fund E', 'Small Cap fund 2'],
+# Category/Subcategory pairs
+categories_subcategories = [
+    ('Apparel', 'Clothing'), ('Apparel', 'Footwear'), ('Beauty', 'grooming'),
+    ('Culture', 'Movie'), ('Education', 'Stationary'), ('Family', 'Pocket money'),
+    ('Festivals', 'Diwali'), ('Festivals', 'Holi'), ('Food', 'Milk'), 
+    ('Food', 'snacks'), ('Food', 'Grocery'), ('Food', 'Lunch'), ('Food', 'Dinner'),
+    ('Gift', 'Gift'), ('Grooming', 'Saloon'), ('Health', 'Medicine'),
+    ('Household', 'Kirana'), ('Household', 'Appliances'), ('Investment', 'Mutual fund'),
+    ('Money transfer', 'Money transfer'), ('Other', 'Donation'),
+    ('Public Provident Fund', 'Public Provident Fund'), ('Recurring Deposit', 'Recurring Deposit'),
+    ('Rent', 'Rent'), ('Self-development', 'Self-development'),
+    ('Social Life', 'Leisure'), ('Tourism', 'Trip'), ('Transportation', 'auto'),
+    ('Transportation', 'Train'), ('Transportation', 'Taxi'),
+    ('subscription', 'Netflix'), ('subscription', 'Amazon Prime'), ('subscription', 'Spotify'),
+    ('subscription', 'Tata Sky'), ('subscription', 'Edtech Course'), ('subscription', 'Airtel'), ('subscription', 'DishTV'),
+    ('water (jar /tanker)', 'water (jar /tanker)')
+]
+
+# Subscription-specific plans and prices
+subscription_plans = {
+    'Netflix': [149, 199, 499, 649],
+    'Amazon Prime': [299, 599, 1499],
+    'Spotify': [7, 25, 119, 149, 179],
+    'Hotstar': [149, 299, 499],
+    'Audible': [199],
+    'Wifi Internet Service': [399, 599, 799],
+    'Kindle unlimited': [169],
 }
-notes = {
-    'snacks': ['Vadapav & Tea', 'Chips & Cola', 'Burger', 'Sandwich'],
-    'Milk': ['1L Amul milk', 'Half litre milk'],
-    'Train': ['To Office', 'Place A to B'],
-    'Bus': ['Commute to Market', 'To Tuition'],
-    'Auto': ['Home to Station', 'Office to Home'],
-    'Netflix': ['Monthly plan', 'Annual plan'],
-    'Salary': ['Monthly salary'],
-    'Laundry': ['5 clothes washed', 'Blanket cleaned'],
-    'Gift': ['Birthday Gift', 'Festival Gift'],
-    'Donation': ['To Temple', 'Street Charity'],
-    'Grocery': ['Fruits & Veggies', 'Monthly stock'],
-    'Lunch': ['Home Delivery', 'Restaurant'],
-    'Freelance': ['Client payment', 'Upwork payout'],
-    'Bonus': ['Year-end bonus'],
-    'Gpay Reward': ['Cashback'],
-}
 
-def random_date(start, end):
-    return start + timedelta(seconds=random.randint(0, int((end - start).total_seconds())))
+notes = ['Paid bill', 'Bought groceries', 'UPI transfer', 'Lunch at cafe', 'Movie night',
+         'Online course', 'Subscription renewal', 'Festival shopping', 'Train ticket', 'Medical bill']
 
-start_date = datetime(2018, 9, 1)
-end_date = datetime(2022, 12, 31)
+# Date setup
+start_date = datetime.today() - timedelta(days=180)
+def random_date():
+    return (start_date + timedelta(days=random.randint(0, 180))).strftime('%Y-%m-%d')
 
-# Generate rows
-data = []
-for _ in range(NUM_ENTRIES):
-    date = random_date(start_date, end_date).strftime("%d/%m/%Y %H:%M:%S")
+# List to collect data
+synthetic_data = []
+
+# Step 1: Ensure at least 15 entries for each subcategory
+for category, subcategory in categories_subcategories:
+    for _ in range(20):
+        date = random_date()
+        mode = random.choice(modes)
+        note = random.choice(notes)
+        income_or_expense = random.choice(income_expense)
+        
+        if category == 'subscription' and subcategory in subscription_plans:
+            amount = random.choice(subscription_plans[subcategory])
+        else:
+            amount = round(random.uniform(50, 5000), 2)
+        
+        synthetic_data.append({
+            "Date": date,
+            "Mode": mode,
+            "Category": category,
+            "Subcategory": subcategory,
+            "Note": note,
+            "Amount": amount,
+            "Income/Expense": income_or_expense,
+            "Currency": currency
+        })
+
+# Step 2: Add random entries to reach total num_records
+min_records = len(synthetic_data)
+num_records = 5500
+
+while len(synthetic_data) < num_records:
+    category, subcategory = random.choice(categories_subcategories)
+    date = random_date()
     mode = random.choice(modes)
-    category = random.choice(list(categories.keys()))
-    subcategory = random.choice(categories[category])
-    note = random.choice(notes.get(subcategory, ['']))
+    note = random.choice(notes)
+    income_or_expense = random.choice(income_expense)
     
-    if category == 'Income':
-        amount = round(random.uniform(1000, 50000), 2)
-        income_expense = 'Income'
-    elif category == 'Investment':
-        amount = round(random.uniform(500, 10000), 2)
-        income_expense = 'Transfer-Out'
+    if category == 'subscription' and subcategory in subscription_plans:
+        amount = random.choice(subscription_plans[subcategory])
     else:
-        amount = round(random.uniform(10, 1000), 2)
-        income_expense = 'Expense'
-    
-    data.append([
-        date,
-        mode,
-        category,
-        subcategory,
-        note,
-        amount,
-        income_expense,
-        'INR'
-    ])
+        amount = round(random.uniform(50, 5000), 2)
 
-# Convert to DataFrame
-df = pd.DataFrame(data, columns=[
-    'Date', 'Mode', 'Category', 'Subcategory', 'Note',
-    'Amount', 'Income/Expense', 'Currency'
-])
+    synthetic_data.append({
+        "Date": date,
+        "Mode": mode,
+        "Category": category,
+        "Subcategory": subcategory,
+        "Note": note,
+        "Amount": amount,
+        "Income/Expense": income_or_expense,
+        "Currency": currency
+    })
 
 # Save to CSV
-df.to_csv("artifacts/synthetic-data.csv", index=False)
-print("✅ Generated 1000 synthetic records to 'synthetic-data.csv'")
+df = pd.DataFrame(synthetic_data)
+csv_path = "artifacts/synthetic-data.csv"
+df.to_csv(csv_path, index=False)
+print(f"Saved {len(df)} records to: {csv_path}")

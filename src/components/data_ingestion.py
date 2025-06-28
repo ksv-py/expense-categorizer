@@ -40,9 +40,12 @@ class DataIngestion:
         if df.isnull().sum().any():
             logging.warning(f"Missing values found in:")
             logging.warning(f"{df.isnull().sum()[df.isnull().sum() > 0]}")
+
         if df.duplicated().sum() > 0:
             logging.warning(f"Duplicate records found: {df.duplicated().sum()} - Removing duplicates.")
             df = df.drop_duplicates()
+
+        
         return df
 
     def initiate_data_ingestion(self):

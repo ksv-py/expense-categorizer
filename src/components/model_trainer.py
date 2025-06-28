@@ -3,6 +3,7 @@ import os
 from pathlib import Path
 from dataclasses import dataclass
 
+import mlflow.sklearn
 from sklearn.linear_model import LogisticRegression
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier, AdaBoostClassifier, GradientBoostingClassifier
@@ -10,14 +11,17 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.svm import SVC
 from catboost import CatBoostClassifier
 from xgboost import XGBClassifier
+import mlflow
+import mlflow.sklearn
+from mlflow.tracking import MlflowClient
 
 sys.path.append(str(Path(__file__).parent.parent))
 
 from exception import CustomException
 from logger import logging
 from utils import evaluate_model, save_object
-from data_transformation import DataTransformation
-from data_ingestion import DataIngestion
+from components.data_transformation import DataTransformation
+from components.data_ingestion import DataIngestion
 
 @dataclass
 class ModelTrainerConfig:
@@ -43,13 +47,13 @@ class ModelTrainer:
             X_test, y_test = test_arr[:,:-1], test_arr[:,-1]
 
             models = {
-                'LogisticRegression': LogisticRegression(class_weight='balanced'),
-                'DecisionTreeClassifier': DecisionTreeClassifier(class_weight='balanced'),
-                'RandomForestClassifier': RandomForestClassifier(class_weight='balanced'),
+                'LogisticRegression': LogisticRegression(),
+                'DecisionTreeClassifier': DecisionTreeClassifier(),
+                'RandomForestClassifier': RandomForestClassifier(),
                 'AdaBoostClassifier': AdaBoostClassifier(),
                 'GradientBoostingClassifier' : GradientBoostingClassifier(),
                 'KNeighborsClassifier': KNeighborsClassifier(),
-                # 'SVC':SVC(class_weight='balanced'),
+                # 'SVC':SVC(),
                 'CatBoostClassifier': CatBoostClassifier(silent=True),
                 'XGBClassifier': XGBClassifier(tree_method='hist')
             }
@@ -131,24 +135,42 @@ class ModelTrainer:
                 }
             }
 
+
+            mlflow.set_experiment('expense-categorizer')
+
             logging.info("Evaluating all models with grid search and cross-validation.")
-            best_model_accuracy, best_model_instance , report = evaluate_model(
-                X_train, y_train, X_test, y_test, models, params, sample_weights=sample_weights
-            )
+            with mlflow.start_run() as run:
+                best_model_accuracy, best_model_instance , report = evaluate_model(
+                    X_train, y_train, X_test, y_test, models, params, sample_weights=sample_weights
+                )
 
-            if best_model_accuracy < 0.6:
-                raise CustomException('No suitable model found with acceptable accuracy.')
+                if best_model_accuracy < 0.6:
+                    raise CustomException('No suitable model found with acceptable accuracy.')
 
-            best_model = best_model_instance
-            save_object(self.model_trainer_config.model_path, best_model)
-            logging.info(f"Best model saved to {self.model_trainer_config.model_path} with accuracy {best_model_accuracy:.2f}")
+                best_model = best_model_instance
 
-            print("Model Report:", report)
-            return best_model_accuracy
+                mlflow.log_param("selected_model", best_model.__class__.__name__)
+                mlflow.log_metric("accuracy", best_model_accuracy)
+
+                # ✅ Log model correctly
+                mlflow.sklearn.log_model(best_model, artifact_path="model")
+
+                # ✅ Get the model URI correctly
+                model_uri = f"runs:/{run.info.run_id}/model"
+
+                
+                result = mlflow.register_model(model_uri, "ExpenseCategorizerModel")
+                print(f"Model registered as version: {result.version}")
+
+                # Save locally as well if needed
+                save_object(self.model_trainer_config.model_path, best_model)
+                logging.info(f"Best model saved to {self.model_trainer_config.model_path} with accuracy {best_model_accuracy:.2f}")
+
+                print("Model Report:", report)
+                return best_model_accuracy
 
         except Exception as e:
-            logging.error("Exception occurred during model training.")
-            raise CustomException(e, sys)
+            raise CustomException(e,sys)
 
 if __name__ == "__main__":
     train_path, test_path = DataIngestion().initiate_data_ingestion()
