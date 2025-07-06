@@ -4,6 +4,31 @@ A full-fledged Flask-based machine learning application that classifies financia
 
 ---
 
+## 🌍 Live Demo
+👉 [Try it Live](https://your-app-link.com)
+
+---
+
+# System Diagrams
+
+![System Architecture, Training Pipeline](static/readme/1.png)
+![Analytics & model Retraining Workflow](static/readme/2.png)
+
+---
+
+# Frontend
+
+![Expense Tracker](static/readme/expense.png)
+---
+![Feedback](static/readme/feedback.png)
+---
+![History](static/readme/history.png)
+---
+![Analytics](static/readme/analytics.png)
+
+
+---
+
 ## 🚀 Features
 
 * 💡 ML-powered transaction categorization based on amount, subcategory, and mode
@@ -40,6 +65,21 @@ expense-categorizer/
 ├── requirements.txt            # All dependencies
 └── README.md                   # You're here.
 ```
+
+## 🧰 Tech Stack
+
+- **Backend**: Flask, APScheduler
+- **ML**: Scikit-learn, MLflow
+- **Database**: MongoDB Atlas
+- **Visualization**: Plotly, Seaborn, Matplotlib
+- **Deployment**: (If any)
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Backend-000000?logo=flask)
+![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-4DB33D?logo=mongodb&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-Graphs-orange?logo=plotly)
+![MLflow](https://img.shields.io/badge/MLflow-Tracking-blue?logo=mlflow)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?logo=scikit-learn)
 
 ---
 
@@ -122,6 +162,12 @@ $ python app.py
 
 ---
 
+## 🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
+
+
+---
 ## 📜 License
 
 [MIT](LICENSE)
