@@ -5,7 +5,7 @@ A full-fledged Flask-based machine learning application that classifies financia
 ---
 
 ## 🌍 Live Demo
-👉 [Try it Live](https://your-app-link.com)
+👉 [Try it Live](-)
 
 ---
 
