@@ -186,6 +186,9 @@ scheduler.start()
 # Shut down scheduler
 atexit.register(lambda: scheduler.shutdown())
 
-if __name__ == '__main__':
-    logging.info("Starting Flask server...")
-    app.run(debug=True)
+
+# Uncomment if using locally 
+
+# if __name__ == '__main__':
+#     logging.info("Starting Flask server...")
+#     app.run(debug=True) 
