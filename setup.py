@@ -15,7 +15,7 @@ def get_requirements(file_path: str) -> List[str]:
     '''
 
     requirements = []
-    with open(file_path, 'r') as file_obj:
+    with open(file_path, 'r',encoding="utf-8", errors="replace") as file_obj:
         lines = file_obj.readlines()
         requirements = [req.strip() for req in lines if req.strip() and req.strip() != HYPHEN_E_DOT]
     return requirements
