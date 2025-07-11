@@ -1,0 +1,8 @@
+operationId = "manual-deploy"
+# You can generate a UUID for uniqueness if needed
+# operationId = "e.g., 7f3e9a4b-c15b-4a6b-9023-45bde1e2d78f"
+
+[build]
+buildCommand = "pip install -r requirements.txt"
+language = "python"
+languageVersion = "3.11"

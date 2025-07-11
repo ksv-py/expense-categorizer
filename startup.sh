@@ -7,4 +7,4 @@ source antenv/bin/activate
 echo "Installing requirements#################################################################"
 pip install -r requirements.txt
 echo "executing Gunicorn #########################################################################"
-exec gunicorn app:app
+exec gunicorn app:app --bind=0.0.0.0:8000
