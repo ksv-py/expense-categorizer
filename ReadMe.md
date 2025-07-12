@@ -88,7 +88,7 @@ expense-categorizer/
 - **ML**: Scikit-learn, MLflow
 - **Database**: MongoDB Atlas
 - **Visualization**: Plotly, Seaborn, Matplotlib
-- **Deployment**: Not yet Deployed
+- **Deployment**: Azure, Render
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-Backend-000000?logo=flask)
