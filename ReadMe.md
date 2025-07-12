@@ -4,10 +4,28 @@ A full-fledged Flask-based machine learning application that classifies financia
 
 ---
 
-## 🌍 Live Demo
-👉 [Try it Live](-)
+## 📚 Table of Contents
 
----
+- [Live Demo](#-live-demo)
+- [System Diagrams](#system-diagrams)
+- [Frontend](#frontend)
+- [Features](#-features)
+- [Project Structure](#-project-structure)
+- [Tech Stack](#-tech-stack)
+- [Problem Faced & Solutions](#-problem-faced--solutions-logged)
+- [Routes](#-routes)
+- [Environment Variables](#️-environment-variables-env)
+- [Visualization](#-visualization-powered-by-plotly--seaborn)
+- [How to Run](#️-how-to-run)
+- [Future Plans](#-future-plans)
+- [Contributing](#-contributing)
+- [License](#-license)
+
+
+
+## 🌍 Live Demo
+👉 [Try it Live](https://expense-categorizer.onrender.com/)
+
 
 # System Diagrams
 
@@ -27,7 +45,6 @@ A full-fledged Flask-based machine learning application that classifies financia
 ![Analytics](static/readme/analytics.png)
 
 
----
 
 ## 🚀 Features
 
@@ -39,7 +56,6 @@ A full-fledged Flask-based machine learning application that classifies financia
 * 🧪 MLflow for model tracking and experimentation
 * 🔧 Modular architecture for scalability
 
----
 
 ## 🧱 Project Structure
 
@@ -80,8 +96,10 @@ expense-categorizer/
 ![Plotly](https://img.shields.io/badge/Plotly-Graphs-orange?logo=plotly)
 ![MLflow](https://img.shields.io/badge/MLflow-Tracking-blue?logo=mlflow)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?logo=scikit-learn)
+[![Live on Render](https://img.shields.io/badge/Live-Render-46E3B7?logo=render)](https://expense-categorizer.onrender.com)
+![Azure](https://img.shields.io/badge/Azure-Deployed-blue?logo=windows)
+![GitHub Actions](https://img.shields.io/github/actions/workflow/status/ksv-py/expense-categorizer/main_expense-categorizer.yml?branch=main&label=CI&logo=github)
 
----
 
 ## 🔍 Problem Faced & Solutions (Logged)
 
@@ -104,7 +122,6 @@ expense-categorizer/
 * **✅ Database** → *Used MongoDB Atlas to persist user feedback instead of flat CSVs.*
 * **✅ Interactive Dashboards** → *Used Plotly for drill-down and dynamic charts (category, mode, trend).*
 
----
 
 ## 🌐 Routes
 
@@ -116,7 +133,6 @@ expense-categorizer/
 | `/analytics` | Displays analytics from feedback data                    |
 | `/history`   | Filterable table to view all transactions                |
 
----
 
 ## ⚙️ Environment Variables (.env)
 
@@ -126,7 +142,6 @@ MONGO_DB_NAME=expense-tracker
 MONGO_COLLECTION_NAME=feedback
 ```
 
----
 
 ## 📊 Visualization (Powered by Plotly & Seaborn)
 
@@ -134,7 +149,7 @@ MONGO_COLLECTION_NAME=feedback
 * Mode of payment usage
 * Monthly expense trends
 
----
+
 
 ## 🛠️ How to Run
 
@@ -151,7 +166,6 @@ $ pip install -r requirements.txt
 $ python app.py
 ```
 
----
 
 ## 🔮 Future Plans
 
@@ -160,18 +174,20 @@ $ python app.py
 * OCR-based bill reading
 * Mobile-first responsive design
 
----
 
 ## 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
 
 
----
+
 ## 📜 License
 
-[MIT](LICENSE)
+This project is licensed under the [MIT License](LICENSE).
+
 
 ---
-
 > This app is a blend of ML engineering + full stack application development — not just an ML model showcase but a production-ready system in the making.
+
+---
+> 💼 Built with ❤️ by [Keshav Jangid](https://github.com/ksv-py)
