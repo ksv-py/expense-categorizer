@@ -13,7 +13,7 @@ import plotly.express as px
 
 # Add path to access custom exception
 sys.path.append(str(Path(__file__).resolve().parent))
-from exception import CustomException  # ✅ Your custom exception handler
+from exception import CustomException  
 from logger import logging
 
 

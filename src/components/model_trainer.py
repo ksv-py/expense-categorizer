@@ -152,10 +152,8 @@ class ModelTrainer:
                 mlflow.log_param("selected_model", best_model.__class__.__name__)
                 mlflow.log_metric("accuracy", best_model_accuracy)
 
-                # ✅ Log model correctly
                 mlflow.sklearn.log_model(best_model, artifact_path="model")
 
-                # ✅ Get the model URI correctly
                 model_uri = f"runs:/{run.info.run_id}/model"
 
                 
