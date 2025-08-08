@@ -26,6 +26,8 @@ A full-fledged Flask-based machine learning application that classifies financia
 ## 🌍 Live Demo
 👉 [Try it Live](https://expense-categorizer.onrender.com/)
 
+# Presentation
+[📄 View the presentation (PDF)](Expense-Categorizer.pdf)
 
 # System Diagrams
 
