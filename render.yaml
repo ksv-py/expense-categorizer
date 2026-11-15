@@ -1,0 +1,28 @@
+# Render deploy config for the Expense Categorizer (Flask) app.
+# The repo previously had NO Render config at all (it was wired for Azure:
+# .github/workflows/main_expense-categorizer.yml, oryx-manifest.toml,
+# startup.sh). Render therefore had no start command of its own.
+services:
+  - type: web
+    name: expense-categorizer
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    # $PORT is assigned by Render - binding a fixed port (startup.sh used 8000)
+    # means Render's health check never succeeds and the deploy never goes live.
+    # --workers 1: the APScheduler retrain job must not run once per worker.
+    # --timeout 180: importing catboost/xgboost/mlflow/scikit-learn on the free
+    #   tier takes far longer than gunicorn's 30s default - workers were being
+    #   killed mid-import, which is the boot loop behind the "loading" page.
+    startCommand: gunicorn app:app --bind 0.0.0.0:$PORT --workers 1 --threads 2 --timeout 180
+    healthCheckPath: /health
+    envVars:
+      # REQUIRED - Keshav must set these in the Render dashboard (do not commit
+      # real values). Without MONGO_URI the feedback/history pages fail; the
+      # homepage and /predict work without MongoDB.
+      - key: MONGO_URI
+        sync: false
+      - key: MONGO_DB_NAME
+        value: expense-tracker
+      - key: MONGO_COLLECTION_NAME
+        value: feedback

@@ -11,7 +11,12 @@ from apscheduler.schedulers.background import BackgroundScheduler
 import atexit
 
 from src.pipeline.predict_pipeline import CustomData, PredictPipeline
-from src.pipeline.train_pipeline import TrainPipeline
+# NOTE: TrainPipeline is intentionally NOT imported here. It pulls in the
+# whole training stack (catboost, xgboost, mlflow, kagglehub) at import time,
+# which made gunicorn workers too slow/heavy to start on Render's free tier
+# (default 30s timeout -> worker killed mid-import -> boot loop). It is
+# imported lazily inside schedule_model_training() instead, so the web server
+# starts with only the prediction stack (pandas/scikit-learn/plotly).
 from src.services.analytics_service import get_summary_stats, get_visuals, get_plotly_visuals
 from src.logger import logging
 from src.exception import CustomException
@@ -33,6 +38,12 @@ MONGO_URI = os.getenv("MONGO_URI")
 client = MongoClient(MONGO_URI)
 db = client[os.getenv("MONGO_DB_NAME", "expense-tracker")]
 collection = db[os.getenv("MONGO_COLLECTION_NAME", "feedback")]
+
+
+@app.route('/health')
+def health():
+    """Liveness probe for Render's health check - must not touch MongoDB."""
+    return 'ok', 200
 
 
 @app.route('/')
@@ -167,6 +178,9 @@ def history():
 
 def schedule_model_training():
     """Initiates model retrainig."""
+    # Lazy import: the training stack (catboost/xgboost/mlflow) is only
+    # needed when a retrain actually runs, not when the server starts.
+    from src.pipeline.train_pipeline import TrainPipeline
     try:
         logging.info("Scheduled retraining started.")
         TrainPipeline().initiate_train_pipeline()
